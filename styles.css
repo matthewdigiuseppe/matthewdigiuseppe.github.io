@@ -169,6 +169,11 @@ nav {
 .hero {
     padding-top: 8rem;
     background-color: #fff;
+    background-image: url('battlepiggybanks.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
 }
 
 .hero-content {
@@ -176,6 +181,20 @@ nav {
     justify-content: space-between;
     align-items: center;
     gap: 2rem;
+    position: relative;
+    z-index: 2;
+}
+
+.hero-combined-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    width: 100%;
 }
 
 .hero-text {
@@ -222,9 +241,12 @@ nav {
 .hero-summary {
     margin-top: 3rem;
     padding: 2rem;
-    background-color: #f8f9fa;
+    background-color: rgba(255, 255, 255, 0.9);
     border-radius: 8px;
     text-align: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    position: relative;
+    z-index: 2;
 }
 
 /* Research section */
@@ -498,6 +520,14 @@ footer {
         font-size: 0.95rem;
     }
     
+    .hero-combined-box {
+        flex-direction: column;
+    }
+    
+    .hero-image {
+        margin-top: 1rem;
+    }
+    
     h1 {
         font-size: 2rem;
     }
@@ -541,6 +571,7 @@ footer {
     .hero-content {
         flex-direction: column;
         text-align: center;
+        gap: 1rem;
     }
     
     .hero-buttons {
