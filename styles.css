@@ -212,10 +212,10 @@ nav {
 }
 
 .profile-photo {
-    width: 125px;
-    height: 125px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 0; /* Remove rounded corners for square shape */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
