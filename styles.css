@@ -382,6 +382,34 @@ nav {
     font-weight: 600;
 }
 
+/* AI Paper Highlighting */
+.ai-paper {
+    position: relative;
+    background: linear-gradient(135deg, #fff 0%, #f0f8ff 100%);
+    border: 2px solid #0066cc;
+    box-shadow: 0 4px 20px rgba(0, 102, 204, 0.15);
+}
+
+.ai-paper:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 25px rgba(0, 102, 204, 0.25);
+}
+
+.ai-badge {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: linear-gradient(135deg, #0066cc 0%, #004999 100%);
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 8px rgba(0, 102, 204, 0.3);
+}
+
 /* Teaching section */
 .teaching {
     background-color: #f8f9fa;
