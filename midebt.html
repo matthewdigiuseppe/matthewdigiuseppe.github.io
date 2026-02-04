@@ -4,31 +4,68 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MIDEBT Project | Matthew DiGiuseppe</title>
+    <meta name="description" content="Microfoundations of Debt Crises (MIDEBT): an ERC Starting Grant project investigating public attitudes toward sovereign debt and how they shape debt policy.">
+    <meta name="author" content="Matthew DiGiuseppe">
+
+    <meta name="theme-color" content="#0066cc">
+
+    <link rel="canonical" href="https://www.matthewdigiuseppe.com/midebt.html">
+    <meta property="og:title" content="Microfoundations of Debt Crises (MIDEBT)">
+    <meta property="og:description" content="An ERC Starting Grant project on how public attitudes toward sovereign debt shape debt policy decisions and outcomes.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.matthewdigiuseppe.com/midebt.html">
+    <meta property="og:image" content="https://www.matthewdigiuseppe.com/battlepiggybanks.jpg">
+    <meta property="og:image:alt" content="Illustration of piggy banks (MIDEBT)">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="MIDEBT Project">
+    <meta name="twitter:description" content="An ERC Starting Grant project on how public attitudes toward sovereign debt shape debt policy decisions and outcomes.">
+    <meta name="twitter:image" content="https://www.matthewdigiuseppe.com/battlepiggybanks.jpg">
+
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Microfoundations of Debt Crises (MIDEBT)",
+      "url": "https://www.matthewdigiuseppe.com/midebt.html",
+      "author": {
+        "@type": "Person",
+        "name": "Matthew DiGiuseppe"
+      }
+    }
+    </script>
 </head>
 <body>
+    <a class="skip-link" href="#content">Skip to content</a>
     <header>
         <div class="container">
             <nav>
                 <div class="logo">Matthew DiGiuseppe</div>
-                <ul class="nav-links">
+                <ul class="nav-links" id="primary-navigation">
                     <li><a href="index.html#home">Home</a></li>
                     <li><a href="index.html#research">Research</a></li>
                     <li><a href="index.html#teaching">Teaching</a></li>
                     <li><a href="index.html#contact">Contact</a></li>
                 </ul>
-                <div class="burger">
+                <button class="burger" type="button" aria-label="Menu" aria-controls="primary-navigation" aria-expanded="false">
                     <div class="line1"></div>
                     <div class="line2"></div>
                     <div class="line3"></div>
-                </div>
+                </button>
             </nav>
         </div>
     </header>
 
-    <section class="project-page">
+    <section id="content" class="project-page">
         <div class="container">
             <h1 class="project-title">Microfoundations of Debt Crises (MIDEBT)</h1>
             <div class="project-meta">
@@ -66,7 +103,7 @@
                         <p class="publication-authors">Aspide, A., Brown, K.J., DiGiuseppe, M., & Slaski, A. (2023)</p>
                         <p class="publication-journal">New Political Economy, 28(4), pp. 509-525</p>
                         <div class="publication-links">
-                            <a href="https://www.tandfonline.com/doi/full/10.1080/13563467.2022.2143490" target="_blank" class="publication-link">Link</a>
+                            <a href="https://www.tandfonline.com/doi/full/10.1080/13563467.2022.2143490"  target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                         </div>
                     </li>
                 </ul>
@@ -86,14 +123,14 @@
 
             <div class="project-contact">
                 <h2>Contact & More Information</h2>
-                <p>For more information about the MIDEBT project, please visit the official project website at <a href="https://www.midebt.org/" target="_blank">www.midebt.org</a> or contact Dr. Matthew DiGiuseppe at mdigiuseppe at gmail dot com.</p>
+                <p>For more information about the MIDEBT project, please visit the official project website at <a href="https://www.midebt.org/"  target="_blank" rel="noopener noreferrer">www.midebt.org</a> or contact Dr. Matthew DiGiuseppe at mdigiuseppe at gmail dot com.</p>
             </div>
         </div>
     </section>
 
     <footer>
         <div class="container">
-            <p>&copy; 2025 Matthew DiGiuseppe. All rights reserved.</p>
+            <p>&copy; <span id="year"></span> Matthew DiGiuseppe. All rights reserved.</p>
         </div>
     </footer>
 
