@@ -9,11 +9,11 @@ git status
 
 # Add changes
 echo "Adding changes..."
-git add index.html
+git add index.html styles.css
 
 # Commit changes
 echo "Committing changes..."
-git commit -m "Update research interests and fix MIDEBT project name"
+git commit -m "Reorganize research section: move working papers to top and highlight AI research"
 
 # Push changes
 echo "Pushing changes to GitHub..."

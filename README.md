@@ -3,7 +3,7 @@
 =======
 # Matthew DiGiuseppe Academic Website
 
-A personal academic website showcasing research, teaching, and contact information for Matthew DiGiuseppe, Associate Professor of International Relations at Leiden University.
+A personal academic website showcasing research, teaching, and contact information for Matthew DiGiuseppe, Associate Professor of Political Science and International Relations at Leiden University.
 
 ## Website Structure
 
