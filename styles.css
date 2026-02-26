@@ -321,6 +321,7 @@ header nav {
     object-fit: cover;
     border-radius: 0; /* Remove rounded corners for square shape */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.4s ease;
 }
 
 .hero-summary {
@@ -762,6 +763,10 @@ footer {
 
 .barrel-roll {
     animation: barrelRoll 2s ease-in-out infinite;
+}
+
+.upside-down {
+    transform: rotate(180deg);
 }
 
 .party-mode {

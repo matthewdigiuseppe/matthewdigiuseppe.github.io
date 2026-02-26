@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# matthewdigiuseppe.github.io
-=======
 # Matthew DiGiuseppe Academic Website
 
 A personal academic website showcasing research, teaching, and contact information for Matthew DiGiuseppe, Associate Professor of Political Science and International Relations at Leiden University.
@@ -9,7 +6,7 @@ A personal academic website showcasing research, teaching, and contact informati
 
 This is a single-page website with sections for:
 - Home/Introduction
-- Research 
+- Research
 - Teaching
 - Contact
 
@@ -60,4 +57,3 @@ To update your website, you can either:
 - Add your actual publication details in the research section
 - Update your course information in the teaching section
 - Add any additional sections as needed
->>>>>>> 7b0f297 (Initial commit of academic website)

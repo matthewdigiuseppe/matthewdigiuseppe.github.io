@@ -41,21 +41,21 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
     }
-    
+
     // Smooth scrolling for navigation links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function(e) {
+        anchor.addEventListener('click', function (e) {
             e.preventDefault();
-            
+
             const targetId = this.getAttribute('href');
             const targetElement = document.querySelector(targetId);
-            
+
             if (targetElement) {
                 window.scrollTo({
                     top: targetElement.offsetTop - 80, // Adjust for header height
                     behavior: 'smooth'
                 });
-                
+
                 // Close mobile menu if open
                 if (nav.classList.contains('nav-active')) {
                     nav.classList.remove('nav-active');
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         burger.classList.remove('toggle');
                         burger.setAttribute('aria-expanded', 'false');
                     }
-                    
+
                     navLinks.forEach(link => {
                         link.style.animation = '';
                     });
@@ -71,40 +71,50 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     });
-    
+
     // Header scroll effect
     const header = document.querySelector('header');
     let lastScrollTop = 0;
-    
+    const profileImg = document.querySelector('.profile-photo');
+
     window.addEventListener('scroll', () => {
         const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-        
+
         // Add shadow on scroll
         if (scrollTop > 10) {
             header.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.1)';
         } else {
             header.style.boxShadow = 'none';
         }
-        
+
         lastScrollTop = scrollTop;
     });
-    
+
+    // Flip profile photo on triple click
+    if (profileImg) {
+        profileImg.addEventListener('click', (e) => {
+            if (e.detail === 3) {
+                profileImg.classList.toggle('upside-down');
+            }
+        });
+    }
+
     // Active section highlighting in navigation
     const sections = document.querySelectorAll('section');
     const navItems = document.querySelectorAll('.nav-links a');
-    
+
     window.addEventListener('scroll', () => {
         let current = '';
-        
+
         sections.forEach(section => {
             const sectionTop = section.offsetTop;
             const sectionHeight = section.clientHeight;
-            
+
             if (pageYOffset >= sectionTop - 200) {
                 current = section.getAttribute('id');
             }
         });
-        
+
         navItems.forEach(item => {
             item.classList.remove('active');
             if (item.getAttribute('href').substring(1) === current) {
@@ -115,4 +125,37 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     });
+
+    // Easter Egg: Konami Code
+    const konamiCode = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
+    let konamiIndex = 0;
+
+    document.addEventListener('keydown', (e) => {
+        // Reset if key doesn't match sequence
+        if (e.key !== konamiCode[konamiIndex]) {
+            konamiIndex = 0;
+            return;
+        }
+
+        // Advance sequence
+        konamiIndex++;
+
+        // Check for success
+        if (konamiIndex === konamiCode.length) {
+            activateEasterEgg();
+            konamiIndex = 0;
+        }
+    });
+
+    function activateEasterEgg() {
+        console.log("🎮 Konami Code Activated!");
+
+        // Toggle Party Mode on Body
+        document.body.classList.toggle('party-mode');
+
+        // Toggle Barrel Roll on Profile Photo
+        if (profileImg) {
+            profileImg.classList.toggle('barrel-roll');
+        }
+    }
 });
