@@ -787,3 +787,17 @@ footer {
     75% { background-color: #e6e6ff; }
     100% { background-color: #f8f9fa; }
 }
+
+/* Unadvertised link to /slides/ - sits on the footer copyright mark. Inherits the
+   footer's colour so it reads as plain text; only the cursor gives it away. */
+.quiet-link {
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;   /* only shows if you hover the mark itself, so you can still find it */
+}
+
+.quiet-link:hover,
+.quiet-link:focus-visible {
+    text-decoration: none;
+    opacity: .75;
+}
