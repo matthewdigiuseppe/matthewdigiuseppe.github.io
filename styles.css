@@ -793,7 +793,10 @@ footer {
 .quiet-link {
     color: inherit;
     text-decoration: none;
-    cursor: pointer;   /* only shows if you hover the mark itself, so you can still find it */
+    cursor: pointer;          /* the only tell; still reads as plain text */
+    display: inline-block;
+    padding: .4rem .6rem;     /* a real tap target, not a 45px word */
+    margin: -.4rem -.6rem;    /* ...without moving the line */
 }
 
 .quiet-link:hover,
