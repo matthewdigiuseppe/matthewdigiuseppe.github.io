@@ -1,0 +1,498 @@
+# Matthew DiGiuseppe — the whole site as text
+
+> Matthew DiGiuseppe is an Associate Professor of Political Science and International Relations at Leiden University. Research: international and comparative political economy, conflict, alliances, and AI politics.
+
+Generated from https://www.matthewdigiuseppe.com/ by scripts/build_agent_files.py. Paper titles link to one Markdown file per paper; those files carry the full text where a public preprint exists.
+
+## Profile
+
+Matthew DiGiuseppe
+
+Associate Professor of Political Science and International Relations
+
+Institute of Political Science, Leiden University
+
+My research and teaching interests include international and comparative political economy, armed conflict, interstate alliances and the politics of artificial intelligence. I am currently the PI on the [Microfoundations of Debt Crises (MIDEBT)](https://www.midebt.org/) project that is funded by an ERC Starting Grant.
+
+CV: https://www.matthewdigiuseppe.com/CV.pdf (text version: https://www.matthewdigiuseppe.com/cv.md)
+
+## Current projects
+
+### Microfoundations of Debt Crises (MIDEBT)
+
+Funded by an ERC Starting Grant
+
+This project investigates how the public thinks about public debt and how that influences the accumulation of public debt and the reluctance to reduce it. [Project Page](https://www.midebt.org/)
+
+### Political Polarization and Public Support for AI Governance
+
+Funded by an NWO XS Grant (starting October 2026)
+
+This project examines how political polarization shapes public attitudes toward governance by artificial intelligence.
+
+## Working papers
+
+### Perceived Political Bias in LLMs Reduces Persuasive Abilities
+
+DiGiuseppe, M., & Robison, J. (2026). Perceived Political Bias in LLMs Reduces Persuasive Abilities. Forthcoming at PNAS Nexus.
+
+- Status: Working paper (recently accepted)
+- Topics: AI & Politics
+- Preprint on arXiv: https://arxiv.org/abs/2602.18092
+- Text version (with full text): https://www.matthewdigiuseppe.com/papers/perceived-political-bias-llms-reduces.md
+
+Conversational AI has been proposed as a scalable way to correct public misconceptions and spread misinformation. Yet its effectiveness may depend on perceptions of its political neutrality. As LLMs enter partisan conflict, elites increasingly portray them as ideologically aligned. We test whether these credibility attacks reduce LLM-based persuasion. In a preregistered U.S. survey experiment (N=2144), participants completed a three-round conversation with ChatGPT about a personally held economic policy misconception. Compared to a neutral control, a short message indicating that the LLM was biased against the respondent’s party attenuated persuasion by 28%. Transcript analysis indicates that the warnings alter the interaction: respondents push back more and engage less receptively. These findings suggest that the persuasive impact of conversational AI is politically contingent, constrained by perceptions of partisan alignment.
+
+### Putting the Public in Public Debt
+
+DiGiuseppe, M., Kantorowicz, J., González-Bustamante, B., & Aspide, A. (2026). Putting the Public in Public Debt. Conditionally accepted at Public Choice.
+
+- Status: Working paper (recently accepted)
+- PDF: https://www.matthewdigiuseppe.com/Putting_the_Public_in_Public_Debt_Sept2026.pdf
+- Text version (with full text): https://www.matthewdigiuseppe.com/papers/putting-public-public-debt.md
+
+Models of public debt accumulation and consolidation rest on assumptions about citizen engagement with fiscal policy and the cleavages that form around policy responses to growing debt. To assess competing models, it is necessary to build evidence for these underlying assumptions. Building on recent work that analyzes closed-ended survey responses, we explore how the public engages with public debt by analyzing original open-ended survey data from three highly indebted countries: Italy, Japan, and Brazil. We probe both the public’s understanding of the consequences of rising debts and preferred policy solutions to the problem. We then examine if these responses align with assumptions of public preferences assumed in prominent models of debt politics. Our evidence suggests that the public is neither the well-informed voters assumed by Ricardian Equivalence and other models nor the uninformed voters assumed under Fiscal Illusion theories. The public in these countries largely expects that rising public debt has negative but unspecific consequences, as it does not readily connect debt to future policy outcomes (taxes and spending cuts). Next, we find little evidence of generational or political disagreement on policy solutions to high debt.
+
+### Information, Party Politics, and Public Support for Central Bank Independence
+
+DiGiuseppe, M., Garriga, A.C., & Kern, A. (2025). Information, Party Politics, and Public Support for Central Bank Independence. Conditionally accepted at British Journal of Political Science.
+
+- Status: Working paper (recently accepted)
+- PDF on SSRN: https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5128037
+- Text version (with full text): https://www.matthewdigiuseppe.com/papers/information-party-politics-public-support.md
+
+Why do citizens support central bank independence (CBI)? Despite important research on economic and political reasons to grant independence to central banks, we know little about what the public thinks about CBI. This is important given citizens' potential role in constraining politicians' ability to alter CBI. We hypothesize that support for CBI is influenced by citizens' limited understanding of central bank governance and their beliefs about who will gain control over monetary policy if independence is reduced. Our expectations are confirmed by a preregistered survey experiment and a pre-post-election test in the U.S. Support for CBI increases when respondents learn that the President would gain more influence if independence was reduced. This support decreases when respondents expect a co-partisan to lead the executive branch. These findings shed light on the legitimacy basis of monetary institutions in politically polarized contexts and, from a policy perspective, indicate the limits of central bank communication.
+
+### Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana
+
+DiGiuseppe, M., Brown, K., Abouharb, R., & Resinsberg, B. (2024). Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana. Conditionally accepted at International Studies Quarterly.
+
+- Status: Working paper (recently accepted)
+- PDF on PEIO: https://www.peio.me/wp-content/uploads/PEIO16/submission_76.pdf
+- Text version (with full text): https://www.matthewdigiuseppe.com/papers/imf-scapegoat-survey-experiment-kenya.md
+
+Many scholars and practitioners have proposed that leaders ‘scapegoat’ the IMF for unpalatable economic reform programs often undertaken during times of economic crisis. However, there is limited evidence that these tactics are effective in shifting citizens’ blame onto the IMF, or that they protect the government from public protest or electoral punishment. This research note seeks to test the micro-foundations of the scapegoat hypothesis with a high-powered online survey experiment in Kenya. Our study provides two insights. First, we find that blaming the IMF has small but significant effects on incumbent support. However, this effect is insignificant when respondents are also exposed to counter-narratives in which the opposition blames the government. Second, we find that blame is not zero-sum. While attributing blame to the IMF increases respondents’ own blame attribution to the IMF, it does not significantly reduce the blame placed on the incumbent. Overall, the results question the political utility of the scapegoating strategy.
+
+### Bottom-Up Preferences for Public Debt Reduction and Repayment
+
+DiGiuseppe, M., & Del Ponte, A. (2023). Bottom-Up Preferences for Public Debt Reduction and Repayment.
+
+- Status: Working paper (revise & resubmit)
+- PDF on OSF: https://files.osf.io/v1/resources/wxr67/providers/osfstorage/6558687cf6ce3c224d50514e?action=download&direct&version=1
+- Text version (with full text): https://www.matthewdigiuseppe.com/papers/bottom-up-preferences-public-debt.md
+
+The public places an important constraint on a government’s ability to maintain stable debt burdens and repay sovereign debt in times of crisis. Yet, scholars have only begun to examine how the public reasons about government debt. The nascent literature finds that a mix of ego-tropic reasoning and top-down elite cues inform public attitudes on sovereign debt policy. In this paper, we propose a bottom-up explanation to complement existing theories. We argue that citizens’ preferences over sovereign debt are also driven by their attitudes toward private debt. Drawing from theories and methods from moral psychology, we propose that the link between private and public debt is similar to other folk economic beliefs that conflate how household and government budgets work. To test our argument, we conducted several preregistered studies. In Brazil and Italy, we find observational evidence that private debt attitudes are significantly correlated with citizens’ positions on public debt, and this is in part driven by their self-reported moral convictions. A survey experiment fielded in Italy finds that manipulating attitudes toward private debt changes support for public debt repayment.
+
+### AI on the Battlefield? Revisiting Public Support for LAWs
+
+DiGiuseppe, M., Paula, K., & Rommel, T. (2025). AI on the Battlefield? Revisiting Public Support for LAWs.
+
+- Status: Working paper (revise & resubmit)
+- Topics: AI & Politics
+- Preprint on OSF: https://osf.io/preprints/socarxiv/s8ab5_v1
+- Text version (with full text): https://www.matthewdigiuseppe.com/papers/ai-battlefield-revisiting-public-support.md
+
+Why do citizens support the development of lethal autonomous weapons (LAWs)? In this paper, we revisit the claim that support for taboo weapons is driven by the logic of external threats, now that individuals are more familiar with artificial intelligence and the international environment has grown more uncertain. In our study, we probe public attitudes toward both the development of LAWs and international cooperation to address the risks. Based on original survey data from 2,500 respondents in the US, we provide an observational as well as an experimental analysis. Observationally, general support for AI and favorable views of militarism and US hegemony as well as perceived competition from other countries are highly correlated with support for the use of lethal AI-weapons. Experimentally, we show that information that rivals or allies are already developing such weapons increases support for LAWs. Additionally, we find that competition from other countries does not influence support for global cooperation to limit AI on the battlefield. Overall, our analysis supports the idea that concerns for security have the power to override opposition to these taboo weapons.
+
+### JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications
+
+Denney, S., & DiGiuseppe, M. (2026). JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications.
+
+- Status: Working paper (under review)
+- Topics: AI & Politics
+- Preprint on arXiv: https://arxiv.org/abs/2610.06625
+- Text version (with full text): https://www.matthewdigiuseppe.com/papers/jev-versus-llms-accuracy-cost.md
+
+Large language models (LLMs) annotate and scale political text or constructs by generating text tokens. A new class of models, which TypeSafe markets as “System One” models, instead returns decisions and probability distributions across a user-supplied fixed answer set. A commercial model, JEV, is advertised as having a dramatic cost and speed advantage over traditional LLMs along with better calibrated decisions. As such, it might be useful for social scientists looking to quickly and cost-effectively annotate or scale large corpora of text and have a reliable indicator of a classifier’s uncertainty. Yet, the accuracy of these claims and the broader model accuracy in social science text-based tasks are not yet established. In this paper, we do just that and hope to establish the suitability of JEV for social science tasks. We compare JEV with LLMs and human coders from published research, and with a current mid-tier commercial LLM (GPT-6 Luna) and an open-weight alternative (Qwen3.8-27B). We find that JEV matches, or comes close to, the capabilities of both LLMs in a variety of tasks. However, we find no cost advantage over GPT-6 Luna at OpenAI’s batch prices. Further, we find that, when each question is asked once, JEV’s probabilities are better calibrated than GPT-6 Luna’s token probabilities, but not consistently better than Qwen3.8-27B’s. We conclude that unless researchers have a need for speed, JEV’s only obvious advantage is ease of parsing the underlying choice probabilities.
+
+### Ad Machina: Partisanship and Support for Delegating Government Decisions to Autonomous Algorithms
+
+DiGiuseppe, M., Paula, K., & Rommel, T. (2025). Ad Machina: Partisanship and Support for Delegating Government Decisions to Autonomous Algorithms.
+
+- Status: Working paper (under review)
+- Topics: AI & Politics
+- Preprint on OSF: https://osf.io/preprints/socarxiv/rnj5h_v2
+- Text version (with full text): https://www.matthewdigiuseppe.com/papers/ad-machina-partisanship-support-delegating.md
+
+Under which conditions are citizens willing to delegate government responsibilities to artificial intelligence? We hypothesize that the identity of incumbent policymakers impacts public support for delegating decisions to AI. In highly polarized societies, AI has the potential to be perceived as a decision maker with apolitical or less partisan motivations in governance decisions. We thus reason that individuals will prefer co-partisans to AI or algorithmic decision making. However, a switch to AI decision making will have more public support when out-partisans hold policy control. To test our hypothesis, we fielded a survey experiment in the summer of 2024 that asked about 2500 respondents in the US to register their support for AI making the most important economic decision in the world -- the setting of the base interest rate by the US Federal Reserve. The basis of our experimental treatments is the fact that Jerome Powell, the current chair of the Fed, was appointed first by President Trump, a Republican, and later re-appointed by President Biden, a Democrat. We find that when we inform respondents that Powell was appointed by a president from another party, support for delegation to AI increases compared to the condition when the Fed chair is appointed by a co-partisan. The complier average causal effect (CACE) indicates that change perception of the Fed Chair to an outpartisan increases support for delegating to AI by over 45%.
+
+### External Threats and Support for International Cooperation
+
+DiGiuseppe, M., Becker, J., Jee, H., & Kim, T. External Threats and Support for International Cooperation.
+
+- Status: Working paper (under review)
+- Text version: https://www.matthewdigiuseppe.com/papers/external-threats-support-international-cooperation.md
+
+### LLM-Based Measurement of Latent Attributes in Trade Data
+
+DiGiuseppe, M., Fu, X., & Flynn, M. (2026). LLM-Based Measurement of Latent Attributes in Trade Data.
+
+- Status: Working paper
+- Topics: AI & Politics
+- Preprint on OSF: https://osf.io/preprints/socarxiv/394w2
+- Text version (with full text): https://www.matthewdigiuseppe.com/papers/llm-based-measurement-latent-attributes.md
+
+Trade data are available at a high level of disaggregation, allowing scholars to examine flows of highly specific goods. Yet the sheer number of goods classifications (5,000+) makes it difficult to analyze trade flows and tariff policy at a mid-level of aggregation beyond a few existing categorizations. Here, we outline a method that can scale---not merely classify---traded goods on researcher-defined dimensions that are orthogonal to existing classification schemes. We propose that the embedded knowledge in large language models (LLMs) can be used to conduct pairwise comparisons (PWCs) of Harmonized System (HS) product descriptions by determining their relative proximity to a specific concept. A Bayesian Bradley--Terry model then uses these PWCs to place individual items on a latent scale of interest. These estimates and their associated uncertainty can then be used for downstream descriptive or causal analysis.
+
+## Published articles
+
+### The Mass Politics of Public Debt, Immigration, and Austerity
+
+Aspide, A., & DiGiuseppe, M. (2025). The Mass Politics of Public Debt, Immigration, and Austerity. Journal of European Public Policy, Advance online publication, pp. 1-29.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1080/13501763.2025.2510523
+- Link: https://www.tandfonline.com/doi/full/10.1080/13501763.2025.2510523
+- Text version: https://www.matthewdigiuseppe.com/papers/mass-politics-public-debt-immigration.md
+
+Several European governments are confronting both high public debt and ageing populations. Policymakers will confront the unpopular choices of austerity, increasing immigration, or continuing to let debt increase. Because these outcomes are studied in isolation, the relative popularity of these interlinked policy options is still unknown. To gain insight into these trade-offs, we examine how the Italian public responds to alternative paths to debt reduction and test if citizens prefer austerity over immigration or are willing to relax opposition to immigration to avoid the material consequences of austerity in a constrained multidimensional setting. Our first experiment reveals that information about immigration’s fiscal benefits increases support for pro-immigration policies and improves attitudes toward immigrants. Next, using a conjoint design, we show that citizens prefer parties that reduce debt through immigration rather than austerity and that are more willing to accept increased immigration than ignore rising public debt. These findings provide insights into the interaction between fiscal policy, immigration, and austerity amid economic and demographic challenges, suggesting that sociocultural concerns can bend to material interests when voters are confronted with these alternative approaches to fiscal sustainability.
+
+### Information, Uncertainty, & Public Support for Brinkmanship during the 2023 Debt Limit Negotiations
+
+DiGiuseppe, M., & Shea, P.E. (2025). Information, Uncertainty, & Public Support for Brinkmanship during the 2023 Debt Limit Negotiations. British Journal of Political Science, 55, e14.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1017/s0007123424000462
+- Link: https://www.cambridge.org/core/journals/british-journal-of-political-science/article/information-uncertainty-and-public-support-for-brinkmanship-during-the-2023-debt-limit-negotiations/21F8732E235423CD2CD879B2BC266306
+- Text version: https://www.matthewdigiuseppe.com/papers/information-uncertainty-public-support-brinkmanship.md
+
+Why do US voters allow politicians to hold the country’s economy hostage during debt ceiling negotiations? In this research note, we argue that ignorance and uncertainty over the consequences of a debt ceiling breach play a nontrivial role in public support for hard-line negotiating positions. In a pre-registered survey experiment, two weeks before the June 2023 deadline to raise the US debt ceiling, we show that providing credible information about the consequences of default increases support for concessions among both Democrats and Republicans. Further, more certain information about the consequences of a debt ceiling breach has a larger effect than less-certain information suggesting that the unpredictable consequences of the crisis also help explain voter reluctance to accept concessions. The findings have implications for understanding debt ceiling negotiations and other crisis bargaining situations where the public serves as a relevant third party.
+
+### Ethnic Politics and Sovereign Credit
+
+DiGiuseppe, M., Brown, K.J., & Shea, P.E. (2024). Ethnic Politics and Sovereign Credit. Review of International Political Economy, 31(2), pp. 589-621.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1080/09692290.2023.2225143
+- Link: https://www.tandfonline.com/doi/full/10.1080/09692290.2023.2225143
+- Text version: https://www.matthewdigiuseppe.com/papers/ethnic-politics-sovereign-credit.md
+
+How does domestic politics affect sovereign credit risk? To date, scholars have largely focused on how economic interests along class-cleavages influence sovereign default risk and borrowing costs. Ethnic dynamics are another important political factor that explains governments’ creditworthiness, yet are understudied. We investigate how ethnic politics shape governments’ credit access and argue that the fiscal incentives generated by ethnic coalitions influence credit risk differently than those created by class cleavages. Because ethnic coalitions are usually smaller than class coalitions, left governments with ethnic support can commit to lower spending and receive more favorable risk assessments. Right governments that rely on ethnic support, however, will have greater spending demands because of their need to satisfy ethnic groups. We test our argument using a new indicator of government ethnic support and four indicators of sovereign credit risk. We find that, in emerging markets, the borrowing costs of right governments increase as they become more dependent on ethnic groups for political support. Our findings suggest that financial markets are attuned to multiple dimensions of domestic politics and demonstrate that ethnic divisions can have strong implications for governments’ access to credit.
+
+### How to Finance Green Investments? The Role of Public Debt
+
+Kantorowicz, J., Collewet, M., DiGiuseppe, M., & Vrijburg, H. (2024). How to Finance Green Investments? The Role of Public Debt. Energy Policy, 184, 113899.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1016/j.enpol.2023.113899
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:RgznTc0nqo4C
+- Text version: https://www.matthewdigiuseppe.com/papers/how-finance-green-investments-role.md
+
+Economic costs are a central political obstacle to investing in climate change mitigation and adaptation measures. Several studies now demonstrate that as costs increase, voters are less likely to support green initiatives. In this paper we argue that opposition to government green investments is conditional on the method of financing. Notably, because public debt shifts the burden of investments into the future, it may face less public opposition than broad based taxes that require an immediate sacrifice. To test this proposition, we fielded a preregistered conjoint survey experiment on nationally representative samples in one highly indebted (Italy) and one fiscally sound country (The Netherlands). We find debt financing increases voter support for green financing by up to 10 percentage points relative to broad-based taxes. However, we find carbon taxes and wealth taxes are most preferred. These findings demonstrate that credit market tools, like green bonds and debt for climate swaps, are likely politically efficient and not just economically efficient. Where investments are already financed with debt, the findings suggest that political communication can limit a political backlash to green investments. Most importantly, the findings show that the political opposition to paying for green investments can be circumvented.
+
+### Age and Support for Public Debt Reduction
+
+Aspide, A., Brown, K.J., DiGiuseppe, M., & Slaski, A. (2023). Age and Support for Public Debt Reduction. European Journal of Political Research, 62(4), pp. 1191-1211.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1111/1475-6765.12577
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:c1AJUTjuCtUC
+- Text version: https://www.matthewdigiuseppe.com/papers/age-support-public-debt-reduction.md
+
+Many scholars and policymakers see rising debt burdens in the industrialised world as the product of ageing populations. Prominent theoretical models of government debt accumulation – used to justify fiscal rules and austerity measures – explicitly assume that support for debt reduction decreases with age. While such models have been influential, the fundamental relationship between age and preferences for debt has not been tested empirically. We test this argument but further theorise that the relationship between age and debt preferences is non‐linear. While the elderly have a clear preference for ignoring debt burdens, we add that the young should also prefer to delay reckoning with high national debts given their low income and expectations of higher future earnings. Using survey data ( N = 112,689), we find that age does have a small to modest non‐linear impact on concern for national deficits and debt burdens. Middle‐aged respondents are most concerned about debt reduction, while the young and old view reducing government debt as less of a policy priority. Notably, the relationship is strongest in countries with more generous old‐age benefits.
+
+### Culture & European Attitudes on Public Debt
+
+Aspide, A., Brown, K.J., DiGiuseppe, M., & Slaski, A. (2023). Culture & European Attitudes on Public Debt. New Political Economy, 28(4), pp. 509-525.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1080/13563467.2022.2143490
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:cww_0JKUTDwC
+- Text version: https://www.matthewdigiuseppe.com/papers/culture-european-attitudes-public-debt.md
+
+Popular media and politicians have often blamed the high public debt of some EU countries on cultural differences. These claims are most apparent in the discourse contrasting ostensibly prudent Northern Europeans with spendthrift Southern Europeans. Despite the prominence of these and similar narratives and evidence that culture plays a nontrivial role in other economic outcomes, there is no systematic evidence that culture influences attitudes towards sovereign debt in the EU. We provide the first empirical test of this claim using over 233,000 responses to a Eurobarometer question about the salience of national debt. Our analysis reveals that national and sub-national differences explain very little of the variance in debt preferences. Further, the differences that do emerge do not fit existing cultural narratives. Additional analysis reveals that established measures of national culture or religious observance, at the national and regional levels, do not correlate with debt attitudes as cultural arguments would predict.
+
+### The Devil's Haircut: Investor–State Disputes over Debt Restructuring
+
+DiGiuseppe, M., & Shea, P.E. (2019). The Devil's Haircut: Investor–State Disputes over Debt Restructuring. Journal of Conflict Resolution, 63(8), pp. 1889-1922.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1177/0022002718811531
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:v6i8RKmR8ToC
+- Text version: https://www.matthewdigiuseppe.com/papers/devils-haircut-investor-state-disputes.md
+
+When do private creditors versus debtor states accept a greater burden in resolving sovereign debt crises? In this study, we argue that distributive politics helps explain the “haircut”—or losses—private creditors take in debt restructuring cases. Despite the expected convergence of partisan policies in a globalized economy, we argue that right and left leaders extract different settlements in debt negotiations. Left governments, representing constituents most likely to be hurt from higher debt repayment, credibly demonstrate more bargaining power and extract greater concessions from creditors. Distributive politics, however, is an indeterminate factor in explaining states entrance into debt negotiations. We use recently released data on the outcome of sovereign debt restructuring cases between states and private creditors from 1975 to 2013 to test our expectations. Results from a double-hurdle model indicate that creditors receive a larger haircut when negotiating with left governments.
+
+### Sovereign Credit and Political Survival in Democracies
+
+DiGiuseppe, M., & Shea, P.E. (2018). Sovereign Credit and Political Survival in Democracies. Business and Politics, 20(3), pp. 360-389.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1017/bap.2018.2
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:O0nohqN1r9EC
+- Text version: https://www.matthewdigiuseppe.com/papers/sovereign-credit-political-survival-democracies.md
+
+Models of distributive politics often assume that fixed budgets constrain the efforts of incumbents to retain power. Yet, significant variation exists in politicians' abilities to push distributive costs forward by funding current fiscal policy through sovereign borrowing. This article theorizes how and when variation in sovereign credit access influences the central goal of democratic incumbents: political survival. Credit allows incumbents to reward supporters without immediately extracting domestic revenue. Excessive borrowing, however, risks higher interest rates or possible market exclusion. Considering sovereign borrowing's benefits and costs, we argue that the marginal effect of credit access on political survival is greatest for those incumbents that require other parties to implement fiscal policy. An analysis of incumbent party tenure in seventy-one democracies from 1977–2007 demonstrates that affordable sovereign finance is associated with longer tenures under divided government but has no significant effect on survival under unified governments.
+
+### The Physical Consequences of Fiscal Flexibility: Sovereign Credit and Physical Integrity Rights
+
+Clay, K.C., & DiGiuseppe, M. (2017). The Physical Consequences of Fiscal Flexibility: Sovereign Credit and Physical Integrity Rights. British Journal of Political Science, 47(4), pp. 783-807.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1017/s0007123415000502
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:S16KYo8Pm5AC
+- Text version: https://www.matthewdigiuseppe.com/papers/physical-consequences-fiscal-flexibility-sovereign.md
+
+Leaders are assumed to face fiscal constraints on their ability to remain in office by competitively distributing public and/or private goods. However, many leaders can relax this constraint by borrowing on sovereign credit markets. This article argues that states with the fiscal flexibility offered by favorable credit terms have the resources necessary to (1) respond to citizen demands with policies other than widespread repression and (2) avoid agency loss that may result in unauthorized repression by state agents. Empirical analyses indicate that creditworthy states have greater respect for physical integrity rights and are less likely to suffer diminished respect for those rights when facing violent dissent or negative shocks to government revenues.
+
+### Borrowed Time: Sovereign Finance, Regime Type, and Leader Survival
+
+DiGiuseppe, M., & Shea, P.E. (2016). Borrowed Time: Sovereign Finance, Regime Type, and Leader Survival. Economics & Politics, 28(3), pp. 342-367.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1111/ecpo.12081
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:4fGpz3EwCPoC
+- Text version: https://www.matthewdigiuseppe.com/papers/borrowed-time-sovereign-finance-regime.md
+
+This study explores the conditional influence of sovereign credit on leader survival. We specifically focus on credit's heterogeneous effect on leadership survival across regimes. We argue that non‐democratic leaders are more sensitive to credit access and cost than democratic leadership. We use event history analysis to test the conditional relationship between sovereign credit and leader tenure from 1981 to 2004. Examining both domestic and global determinants of credit access and costs, our findings are consistent with the assertion that non‐democratic leadership survival is linked to credit even when addressing issues of endogeneity.
+
+### Sovereign Credit and the Fate of Leaders: Reassessing the Democratic Advantage
+
+DiGiuseppe, M., & Shea, P.E. (2015). Sovereign Credit and the Fate of Leaders: Reassessing the Democratic Advantage. International Studies Quarterly, 59(3), pp. 557-570.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1111/isqu.12181
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:M7yex6snE4oC
+- Text version: https://www.matthewdigiuseppe.com/papers/sovereign-credit-fate-leaders-reassessing.md
+
+In this article, we contend that the “democratic advantage” literature (i) exaggerates the potential political backlash from credit downgrades in democracies; and (ii) overlooks the importance of sovereign credit to nondemocratic leaders. We argue that nondemocratic regimes receive a higher marginal political benefit from credit compared to democratic regimes. Consequently, changes in credit prices or credit access affect nondemocratic leaders' tenure more than democratic leaders' tenure. To test this argument, we provide the first statistical examination of the electoral punishment mechanism of the “democratic advantage.” Our duration analysis shows that credit downgrades increase nondemocratic leaders' vulnerability more than that of their democratic peers. Our research reinforces the growing concerns about the conventional views about regime type, domestic constraints, and leaders' preferences toward sovereign credit and other political processes.
+
+### Guns, Butter, and Debt: Sovereign Creditworthiness and Military Expenditure
+
+DiGiuseppe, M. (2015). Guns, Butter, and Debt: Sovereign Creditworthiness and Military Expenditure. Journal of Peace Research, 52(5), pp. 680-693.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1177/0022343315587970
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:SpbeaW3--B0C
+- Text version: https://www.matthewdigiuseppe.com/papers/guns-butter-debt-sovereign-creditworthiness.md
+
+I argue that favorable access to sovereign credit provides governments with greater autonomy to invest in security by allowing political incumbents to relax fixed-budget constraints. Borrowing permits leaders to delay and minimize the macroeconomic and redistributive costs associated with domestic sources of finance. Consequently, leaders of creditworthy states face fewer political costs when increasing military expenditure in response to growing demand or maintaining military expenditure when government revenues fall. A cross-sectional time-series analysis supports two observable implications of the argument. First, creditworthiness is positively associated with military spending with an effect on par with regime type. Second, creditworthiness conditions the effect of external threats on military expenditure, suggesting that poor credit terms constrain the provision of security.
+
+### Tightening the Belt: Sovereign Debt and Alliance Formation
+
+Allen, M.A., & DiGiuseppe, M. (2013). Tightening the Belt: Sovereign Debt and Alliance Formation. International Studies Quarterly, 57(4), pp. 647-659.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt, Alliance Politics
+- DOI: https://doi.org/10.1111/isqu.12010
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:u-x6o8ySG0sC
+- Text version: https://www.matthewdigiuseppe.com/papers/tightening-belt-sovereign-debt-alliance.md
+
+International relations scholars have previously argued that states facing budget constraints will join alliances to free resources for domestic spending. In this paper, we focus on the primary mechanism by which leaders have relaxed this constraint: sovereign borrowing. Sovereign debt enables states to maintain stable tax rates while increasing expenditures to confront budgetary emergencies. Affordable access to credit, then, serves as both a source of power and an important buffer between security and the political consequences of fiscal policy. States that lack the confidence of investors must make tough choices between continued security and their electoral fortunes. We suggest that as governments lack access to affordable credit, they will substitute military capacity with alliance formation. Alliances provide a means for leaders to offset the loss of flexibility from diminished access to credit without disturbing the domestic political economy. Using previous models of alliance formation as a guide, our empirical evidence indicates that states that have a hard time borrowing are more likely to form an alliance than those states with affordable access to credit markets.
+
+### Transparency, Risk, and FDI
+
+Barry, C.M., & DiGiuseppe, M. (2019). Transparency, Risk, and FDI. Political Research Quarterly, 72(1), pp. 132-146.
+
+- Status: Published
+- Topics: Political Economy & Sovereign Debt
+- DOI: https://doi.org/10.1177/1065912918781037
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:WAzi4Gm8nLoC
+- Text version: https://www.matthewdigiuseppe.com/papers/transparency-risk-fdi.md
+
+A central theme in the foreign direct investment (FDI) literature is that political risk deters investment. The empirical record, however, is mixed. multinational corporations (MNCs) continue to invest in high-risk countries. We argue it is not merely about the level of risk, but rather firms’ ability to quantify risk. When MNCs can confidently assess both the nature and the degree of the threats present, they can take appropriate measures to hedge against them. This should increase their willingness to invest, even in higher risk environments. We contend that the ability to accurately quantify risk is a function of political transparency. Among opaque countries, we expect risk to exert a deterring effect on FDI, as commonly theorized. Among more transparent countries, however, we expect that risk is a less salient concern for MNCs. We test this argument using firm-level data on the foreign operations of some of the world’s largest multinationals between 1995 and 2008. The evidence supports the argument. Risk has a strong negative effect on the likelihood of investment at lower levels of transparency, but the magnitude of this effect weakens at higher levels of transparency. This pattern is consistent across multiple types of political risk, and is most pronounced in nonextractive (relative to extractive) industries.
+
+### Farming Then Fighting: The Relationship Between Idle Time and Social Conflict
+
+DiGiuseppe, M., van der Haer, R., & Rezaee, B. (2024). Farming Then Fighting: The Relationship Between Idle Time and Social Conflict. Political Science Research and Methods, 12(4), pp. 897-906.
+
+- Status: Published
+- Topics: Conflict & Security
+- DOI: https://doi.org/10.1017/psrm.2024.6
+- Link: https://www.cambridge.org/core/journals/political-science-research-and-methods/article/farming-then-fighting-agricultural-idle-time-and-armed-conflict/8E9F95D3CF22AA1C061696BF735D380B
+- Text version: https://www.matthewdigiuseppe.com/papers/farming-then-fighting-relationship-between.md
+
+Policymakers and scholars have long proposed that willingness to participate in armed conflict is influenced by citizens' income-earning opportunities. Testing this opportunity cost mechanism has led to mixed results. One reason for this might be the fact that current proxies can also serve as indicators to test grievance-based theories. In this study, we construct a more suitable measure. We use crop calendars and crop location data to build an index of agricultural idle time for first administration units on the African continent from 1990 to 2017. We test the explanatory power of this measure by examining its relationship with armed conflict. Our results show that agricultural idle time increases the probability of observing armed conflict by more than 20 percent.
+
+### Threats and the Public Constraint on Military Spending
+
+DiGiuseppe, M., Aspide, A., & Becker, J. (2024). Threats and the Public Constraint on Military Spending. British Journal of Political Science, 54(3), pp. 649-666.
+
+- Status: Published
+- Topics: Conflict & Security
+- DOI: https://doi.org/10.1017/s0007123423000443
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:JqN3CTdJtl0C
+- Text version: https://www.matthewdigiuseppe.com/papers/threats-public-constraint-military-spending.md
+
+The public places an important constraint on funding security in Europe, and austerity risks making the constraint tighter. Several recent studies show that curtailing military spending is a popular way to reduce debt in Europe. Yet it remains unclear if military spending aversion persists when threats are salient. We fielded an original survey experiment in Italy weeks before the Russian invasion of Ukraine to examine how information about security threats influences military spending preferences and fiscal trade-offs. We found that information about threats increases support for military spending. To validate the survey experiment, we recontacted and remeasured our respondent's preferences three weeks after Russia's invasion and find evidence consistent with our initial experiment. Our findings suggest that, while public opposition to military spending remains high in Italy, external threats dampen the public's opposition to military spending, even under high debt burdens.
+
+### The Wedding Bells of War: The Influence of Armed Conflict on Child Marriages in West Africa
+
+DiGiuseppe, M., & van der Haer, R. (2023). The Wedding Bells of War: The Influence of Armed Conflict on Child Marriages in West Africa. Journal of Peace Research, 60(3), pp. 474-488.
+
+- Status: Published
+- Topics: Conflict & Security
+- DOI: https://doi.org/10.1177/00223433221080056
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:-38epGy1wY0C
+- Text version: https://www.matthewdigiuseppe.com/papers/wedding-bells-war-influence-armed.md
+
+Child marriage is a fundamental violation of human rights. It hinders progress towards development and public health goals. In this study, we argue that armed conflict plays an important role in the occurrence of child marriages; it influences the supply of and demand for young brides. We argue that in conflict settings, families are more willing to marry off their young daughters for protection. Armed conflict can also influence the demand: marriage in general declines due to an imbalance in sex ratio. However, in cases where belligerents use war tactics specifically focused on harming girls, such as sexual violence and girl recruitment, early marriage might increase as the result of armed conflict. To empirically examine these linkages, we combine the Demographic and Health Surveys of West Africa with information on the location of armed conflict. Our study shows that armed conflict generally reduces the occurrence of child marriage with 13% to 18%. However, we observe that when conflict actors use war tactics that specifically harm young girls there is a significant increase of 12% to 18% in the probability of a girl getting married before the age of 18. This research has important implications for our understanding of the relationship between armed conflict, gender inequality, and their impact on children.
+
+### U.S. Patronage, State Capacity, and Civil Conflict
+
+DiGiuseppe, M., & Shea, P.E. (2022). U.S. Patronage, State Capacity, and Civil Conflict. Journal of Politics, 84(2), pp. 767-782.
+
+- Status: Published
+- Topics: Conflict & Security
+- DOI: https://doi.org/10.1086/715598
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:CMvovTBb2okC
+- Text version: https://www.matthewdigiuseppe.com/papers/us-patronage-state-capacity-civil.md
+
+Leaders need resources to maintain power. To secure these resources, states can develop their own extractive capacity or seek external support to help subsidize their costs. In this study, we argue that extractive capacity and external support are not always alternatives. We focus on how US support can foster local property rights, which subsequently builds extractive capacity. We then argue that states with more capacity are better able to either alleviate rebels’ grievances or deter rebels from mounting a military challenge. We use mediation analysis to test these expectations with a data set on capacity, US support, and civil conflict from 1970 to 2012. We find empirical support for the role of property rights and capacity as mediating factors between US support and civil conflict. Our results have implications for international explanations of civil conflict and the role of US patronage in capacity development.
+
+### The Fiscal Autonomy of Deciders: Creditworthiness and Conflict Initiation
+
+DiGiuseppe, M. (2015). The Fiscal Autonomy of Deciders: Creditworthiness and Conflict Initiation. Foreign Policy Analysis, 11(3), pp. 317-338.
+
+- Status: Published
+- Topics: Conflict & Security
+- DOI: https://doi.org/10.1111/fpa.12044
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:d1gkVwhDpl0C
+- Text version: https://www.matthewdigiuseppe.com/papers/fiscal-autonomy-deciders-creditworthiness-conflict.md
+
+Liberal theory claims that the constraint taxpayers impose on military expenditure is an important mechanism through which democracy and international commerce help prevent conflict. However, leaders with affordable access to sovereign credit have often overcome this constraint by raising revenue on credit markets. By minimizing or deferring the economic burden imposed on taxpayers and the macroeconomic stress associated with alternative financing strategies, I argue that these leaders have greater autonomy to pursue an aggressive foreign policy if they so desire. Leaders that lack creditor confidence risk increased political opposition and removal from office if hostilities generate macroeconomic stress or disturb the domestic fiscal balance. They also face a higher likelihood of defeat or retreat, and the subsequent political consequences, if they pursue conflict without sufficient resources. Estimates of a heteroskedastic probit model support this hypothesis and indicate that creditworthy states initiate conflict with a greater mean probability and greater variance than their noncreditworthy counterparts.
+
+### Good for the Money? International Finance, State Capacity and Internal Armed Conflict
+
+DiGiuseppe, M., Barry, C.M., & Frank, R.W. (2012). Good for the Money? International Finance, State Capacity and Internal Armed Conflict. Journal of Peace Research, 49(3), pp. 391-405.
+
+- Status: Published
+- Topics: Conflict & Security
+- DOI: https://doi.org/10.1177/0022343311434239
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:u5HHmVD_uO8C
+- Text version: https://www.matthewdigiuseppe.com/papers/good-money-international-finance-state.md
+
+Previous research indicates that a lack of state capacity is a key determinant of internal armed conflict. Scholars identify several internal dimensions of state capacity, but have yet to explore how international finance influences state resources. This is surprising because sovereign lending has increased dramatically in recent decades and plays an increasing role in the functioning of developed and developing governments. In this article, we explore this relationship between a state’s integration into global credit markets and its subsequent capacity to promote domestic stability. We argue that international capital increases a state’s ability to respond to internal opposition because states with favorable credit terms can expand their resource base beyond domestic constraints to deter, accommodate, or repress opposition while maintaining a level provision of resources to their political base. We examine the influence that both capital access and credit terms have on the risk of civil conflict in 141 countries from 1981 to 2007. Our empirical results indicate that states with affordable credit access are indeed less likely to experience civil conflict.
+
+### Alliances, Signals of Support, and Military Effort
+
+DiGiuseppe, M., & Shea, P.E. (2021). Alliances, Signals of Support, and Military Effort. European Journal of International Relations, 27(4), pp. 1067-1089.
+
+- Status: Published
+- Topics: Alliance Politics
+- DOI: https://doi.org/10.1177/13540661211033890
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:L24QuVWYgZ0C
+- Text version: https://www.matthewdigiuseppe.com/papers/alliances-signals-support-military-effort.md
+
+Do alliances allow states to share defense burdens and reduce military spending? Despite expectations that alliances should lead to decreased military spending, the empirical record offers mixed findings. We argue that not all alliances are reliable; thus, only allies that receive signals of reassurance will rely on the external security of allies and subsequently reduce their military spending. Compared to states that do not receive additional signals, these reassured allies will have greater confidence that an ally will come to their aid. As a result, third-party aggressors are deterred and the demand for military spending will decrease. We test this argument with an analysis of US signals of support, alliance commitments, and military spending. We find that American alliances without additional signals of support have a negligible effect on military spending. Yet, we observe that alliances are negatively associated with military spending when signals of support are present. Additional tests indicate that alliance commitments, coupled with strong US signals, are also associated with lower military spending in the rivals of US allies. Our results potentially help explain the mixed evidence in the arms-versus-allies and burden-sharing literatures and further demonstrate that extra-alliance signals play an important role in the practice of International Relations.
+
+### Arms versus Democratic Allies
+
+DiGiuseppe, M., & Poast, P. (2018). Arms versus Democratic Allies. British Journal of Political Science, 48(4), pp. 981-1003.
+
+- Status: Published
+- Topics: Alliance Politics
+- DOI: https://doi.org/10.1017/s0007123416000247
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:4hFrxpcac9AC
+- Text version: https://www.matthewdigiuseppe.com/papers/arms-versus-democratic-allies.md
+
+In theory, states can gain security by acquiring internal arms or external allies. Yet the empirical literature offers mixed findings: some studies find arms and allies to be substitutes, while others find them to be complements. This article contends that these conflicting findings are due to scholars failing to consider how regime type influences the choice between arms and allies. Since democracies are highly credible allies, states that form alliances with democracies can confidently reduce their internal arms. This is not the case when states form alliances with non-democracies. This study evaluates the argument using data on military expenditures and defense pacts from 1950 to 2001. Taking steps to account for the potentially endogenous relationship between arms and allies, it finds that democratic alliances are associated with lower levels of military spending.
+
+### Scaling Open-ended Survey Responses Using LLM-Paired Comparisons
+
+DiGiuseppe, M., & Flynn, M.E. (2026). Scaling Open-ended Survey Responses Using LLM-Paired Comparisons. Public Opinion Quarterly, 90(1).
+
+- Status: Published
+- Topics: Political Behavior & Policy Preferences
+- DOI: https://doi.org/10.1093/poq/nfag013
+- PDF on OSF: https://osf.io/preprints/socarxiv/39ajg_v2
+- Text version (with full text): https://www.matthewdigiuseppe.com/papers/scaling-open-ended-survey-responses.md
+
+Survey researchers rely heavily on closed-ended questions to measure latent respondent characteristics like knowledge, policy positions, emotions, ideology, and various other traits. Closed-ended questions are easy to analyze and collect, but necessarily limit the depth and variability of responses. Open-ended responses allow for greater depth and variability in responses, but are labor intensive to code. Large language models (LLMs) may help with this problem, but existing approaches to using LLMs have a number of limitations. In this paper, we propose and test a pairwise comparison method to scale open-ended survey responses on a continuous scale. The approach relies on LLMs to make pairwise comparisons of statements that identify which statement “wins” and “loses.” With this information, we employ a Bayesian Bradley-Terry model to recover a “score” on a latent dimension for each statement. This approach allows for finer discrimination between items, reduced anchoring bias, better measurement of uncertainty, and is more flexible than methods relying on Maximum Likelihood Estimation techniques. We demonstrate the utility of this approach on an open-ended question probing knowledge of interest rates in the US economy. A comparison of six LLMs of various sizes reveals that pairwise comparisons show greater consistency than zero-shot 0–10 ratings across a variety of model sizes. Further, comparison of pairwise decisions is consistent with knowledgeable crowdsourced workers.
+
+### Do Consumers Follow the Flag? Perceptions of Hostility and Consumer Preferences
+
+Barry, C.M., & DiGiuseppe, M. (2022). Do Consumers Follow the Flag? Perceptions of Hostility and Consumer Preferences. International Interactions, 48(6), pp. 1200-1215.
+
+- Status: Published
+- Topics: Political Behavior & Policy Preferences
+- DOI: https://doi.org/10.1080/03050629.2022.2089133
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:WAzi4Gm8nLoC
+- Text version: https://www.matthewdigiuseppe.com/papers/do-consumers-follow-flag-perceptions.md
+
+Do consumers discriminate against foreign products made in countries they deem adversarial? While previous studies have examined how nationalist boycotts influence trade, there is little evidence consumers “follow the flag” more generally. In this study, we employ a conjoint choice survey experiment in the United States and India to assess how individuals’ geopolitical attitudes affect their product preferences. By permitting heterogeneity in perceptions of foreign relations, and examining how these perceptions affect consumer behavior, we reveal one of the micro-level mechanisms at work in the macro-level relationship between trade and conflict. The results show that, when compared to goods made in countries perceived as “neutral” or “friendly,” consumers are 2–6% less likely to select goods made in countries they perceive as being “hostile.” We conclude that, along with organized boycotts, firms, and states, consumers are also partially responsible for the observed correlation between international political relations and trade flows.
+
+### Economics, Security, and Individual-Level Preferences for Trade Agreements
+
+DiGiuseppe, M., & Kleinberg, K.B. (2019). Economics, Security, and Individual-Level Preferences for Trade Agreements. International Interactions, 45(2), pp. 289-315.
+
+- Status: Published
+- Topics: Political Behavior & Policy Preferences
+- DOI: https://doi.org/10.1080/03050629.2019.1551007
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:-DxkuPiZhfEC
+- Text version: https://www.matthewdigiuseppe.com/papers/economics-security-individual-level-preferences.md
+
+Empirical research on the determinants of individual-level support for trade liberalization has focused almost entirely on the economic effects of trade. Yet, international relations scholarship has long recognized that commerce also has a variety of security implications. This paper explores if and when security considerations influence individual attitudes toward trade. In this study, we ask two questions: First, to what extent do expectations about the security implications of trade affect individual-level attitudes toward trade agreements? Second, does the introduction of security concerns into the discussion of trade agreements influence how heavily individuals weigh their economic costs and benefits? We employ an original experiment embedded in a conjoint survey to investigate the relative impact of a variety of economic and security considerations on respondents’ support for trade. Our findings suggest that security information matters and undermines the appeal of some, though not all, economic arguments for trade liberalization among our respondents.
+
+### International Development NGOs and Bureaucratic Capacity: Facilitator or Destroyer?
+
+Campbell, S., DiGiuseppe, M., & Murdie, A. (2019). International Development NGOs and Bureaucratic Capacity: Facilitator or Destroyer? Political Research Quarterly, 72(1), pp. 3-18.
+
+- Status: Published
+- Topics: NGOs
+- DOI: https://doi.org/10.1177/1065912918772941
+- Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uLty40oAAAAJ&citation_for_view=uLty40oAAAAJ:FiDNX6EVdGUC
+- Text version: https://www.matthewdigiuseppe.com/papers/international-development-ngos-bureaucratic-capacity.md
+
+Do development international nongovernmental organizations (INGOs) facilitate or destroy the bureaucratic capacity of the states in which they operate? The literature is split on this question. Some scholars argue that development INGOs weaken state capacity by delivering social services that the government is supposed to provide. Others argue that by increasing a country’s domestic demand for improved human rights, development INGOs improve a government’s capacity to fulfill them. In this paper, we show that the effect of development INGOs on state capacity depends on whether a state is democratic or nondemocratic. In our cross-sectional time-series analysis, we find that development INGO presence has a significant positive relationship with state capacity in democracies but no relationship with state capacity in nondemocratic states. These findings help explain the inconsistent claims in the existing INGO literature and are also relevant for development INGOs and the policymakers that support them.
+
+## Teaching
+
+I teach undergraduate and graduate courses on international relations, political economy, and security studies. I have previously taught at Leiden University, University of Mississippi, and Binghamton University.
+
+### Large Language Models (LLMs)
+
+#### Agentic AI in Social Science Research: From Annotators to Autonomous Pipelines
+
+A talk on the use of agentic AI in social science research, given at the University of Manchester (September 2026). [Download Talk Slides](https://www.matthewdigiuseppe.com/Agentic_AI_SS_Research_May2026.pdf)
+
+#### LLM Literacy
+
+A lecture on LLM literacy — understanding how to effectively and critically use large language models (March 2026). [Download Lecture Slides](https://www.matthewdigiuseppe.com/LLM_Literacy_Lecture_March2026.pdf)
+
+#### Introduction to Large Language Models
+
+An introductory lecture on the capabilities and limitations of large language models (March 2025). [Download Lecture Slides](https://www.dropbox.com/scl/fi/mevejxmxj7iedesu1nqp6/LLM_Beginner_Lecture.pdf?rlkey=bfixlr3x519uqwvzhe6sdl6zo&dl=0)
+
+### Leiden University
+- **Economics for Political Science** — 2018-2022
+- **International Political Economy** — 2018-2022
+- **Foreign Policy in the Trump Era** — 2019
+
+### University of Mississippi
+- **Foreign Policy in the Trump Era (Senior Seminar)** — 2017
+- **Introduction to International Relations** — 2012, 2013, 2014, 2015
+- **Politics of the World Economy** — 2013, 2014, 2015, 2016
+- **Ethnic Conflict and International Terrorism** — 2013, 2014
+- **Political Economy of Armed Conflict (Senior Seminar)** — 2014
+- **International Conflict** — 2015
+- **War in World Politics** — 2016
+- **Graduate Seminar in International Political Economy** — 2014
+- **Graduate Seminar in International Relations** — 2016
+
+### Binghamton University
+- **The Political Economy of International Economic Crises** — 2011
+- **Domestic Forces in International Relations** — 2011
+- **Political Economy of Armed Conflict** — 2010
+- **Introduction to World Politics** — 2010
+- **International Political Economy** — 2009
+
+## Contact
+
+mdigiuseppe at gmail dot com
+
+Institute of Political Science, Leiden University
+
+[Google Scholar](https://scholar.google.com/citations?user=uLty40oAAAAJ&hl=en&oi=sra) [GitHub](https://github.com/matthewdigiuseppe)

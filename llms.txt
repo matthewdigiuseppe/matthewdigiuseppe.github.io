@@ -1,0 +1,60 @@
+# Matthew DiGiuseppe
+
+> Matthew DiGiuseppe is an Associate Professor of Political Science and International Relations at Leiden University. Research: international and comparative political economy, conflict, alliances, and AI politics.
+
+This file lists everything on the site in plain text. Each paper has its own Markdown page with citation details, links and the abstract; working papers with a public preprint include the full text. Everything in one file, with abstracts: [llms-full.txt](https://www.matthewdigiuseppe.com/llms-full.txt).
+
+## About
+
+- [Homepage](https://www.matthewdigiuseppe.com/): research, teaching and contact details
+- [CV as text](https://www.matthewdigiuseppe.com/cv.md): the full CV in Markdown
+- [CV (PDF)](https://www.matthewdigiuseppe.com/CV.pdf)
+- [MIDEBT project](https://www.matthewdigiuseppe.com/midebt.html): ERC Starting Grant project on the microfoundations of debt crises
+- [All publications as BibTeX](https://www.matthewdigiuseppe.com/publications.bib)
+
+## Working papers
+
+- [Perceived Political Bias in LLMs Reduces Persuasive Abilities](https://www.matthewdigiuseppe.com/papers/perceived-political-bias-llms-reduces.md): DiGiuseppe, M., & Robison, J. (2026). Forthcoming at PNAS Nexus. Full text.
+- [Putting the Public in Public Debt](https://www.matthewdigiuseppe.com/papers/putting-public-public-debt.md): DiGiuseppe, M., Kantorowicz, J., González-Bustamante, B., & Aspide, A. (2026). Conditionally accepted at Public Choice. Full text.
+- [Information, Party Politics, and Public Support for Central Bank Independence](https://www.matthewdigiuseppe.com/papers/information-party-politics-public-support.md): DiGiuseppe, M., Garriga, A.C., & Kern, A. (2025). Conditionally accepted at British Journal of Political Science. Full text.
+- [Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana](https://www.matthewdigiuseppe.com/papers/imf-scapegoat-survey-experiment-kenya.md): DiGiuseppe, M., Brown, K., Abouharb, R., & Resinsberg, B. (2024). Conditionally accepted at International Studies Quarterly. Full text.
+- [Bottom-Up Preferences for Public Debt Reduction and Repayment](https://www.matthewdigiuseppe.com/papers/bottom-up-preferences-public-debt.md): DiGiuseppe, M., & Del Ponte, A. (2023). Full text.
+- [AI on the Battlefield? Revisiting Public Support for LAWs](https://www.matthewdigiuseppe.com/papers/ai-battlefield-revisiting-public-support.md): DiGiuseppe, M., Paula, K., & Rommel, T. (2025). Full text.
+- [JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications](https://www.matthewdigiuseppe.com/papers/jev-versus-llms-accuracy-cost.md): Denney, S., & DiGiuseppe, M. (2026). Full text.
+- [Ad Machina: Partisanship and Support for Delegating Government Decisions to Autonomous Algorithms](https://www.matthewdigiuseppe.com/papers/ad-machina-partisanship-support-delegating.md): DiGiuseppe, M., Paula, K., & Rommel, T. (2025). Full text.
+- [External Threats and Support for International Cooperation](https://www.matthewdigiuseppe.com/papers/external-threats-support-international-cooperation.md): DiGiuseppe, M., Becker, J., Jee, H., & Kim, T.
+- [LLM-Based Measurement of Latent Attributes in Trade Data](https://www.matthewdigiuseppe.com/papers/llm-based-measurement-latent-attributes.md): DiGiuseppe, M., Fu, X., & Flynn, M. (2026). Full text.
+
+## Published articles
+
+- [The Mass Politics of Public Debt, Immigration, and Austerity](https://www.matthewdigiuseppe.com/papers/mass-politics-public-debt-immigration.md): Aspide, A., & DiGiuseppe, M. (2025). Journal of European Public Policy, Advance online publication, pp. 1-29.
+- [Information, Uncertainty, & Public Support for Brinkmanship during the 2023 Debt Limit Negotiations](https://www.matthewdigiuseppe.com/papers/information-uncertainty-public-support-brinkmanship.md): DiGiuseppe, M., & Shea, P.E. (2025). British Journal of Political Science, 55, e14.
+- [Ethnic Politics and Sovereign Credit](https://www.matthewdigiuseppe.com/papers/ethnic-politics-sovereign-credit.md): DiGiuseppe, M., Brown, K.J., & Shea, P.E. (2024). Review of International Political Economy, 31(2), pp. 589-621.
+- [How to Finance Green Investments? The Role of Public Debt](https://www.matthewdigiuseppe.com/papers/how-finance-green-investments-role.md): Kantorowicz, J., Collewet, M., DiGiuseppe, M., & Vrijburg, H. (2024). Energy Policy, 184, 113899.
+- [Age and Support for Public Debt Reduction](https://www.matthewdigiuseppe.com/papers/age-support-public-debt-reduction.md): Aspide, A., Brown, K.J., DiGiuseppe, M., & Slaski, A. (2023). European Journal of Political Research, 62(4), pp. 1191-1211.
+- [Culture & European Attitudes on Public Debt](https://www.matthewdigiuseppe.com/papers/culture-european-attitudes-public-debt.md): Aspide, A., Brown, K.J., DiGiuseppe, M., & Slaski, A. (2023). New Political Economy, 28(4), pp. 509-525.
+- [The Devil's Haircut: Investor–State Disputes over Debt Restructuring](https://www.matthewdigiuseppe.com/papers/devils-haircut-investor-state-disputes.md): DiGiuseppe, M., & Shea, P.E. (2019). Journal of Conflict Resolution, 63(8), pp. 1889-1922.
+- [Sovereign Credit and Political Survival in Democracies](https://www.matthewdigiuseppe.com/papers/sovereign-credit-political-survival-democracies.md): DiGiuseppe, M., & Shea, P.E. (2018). Business and Politics, 20(3), pp. 360-389.
+- [The Physical Consequences of Fiscal Flexibility: Sovereign Credit and Physical Integrity Rights](https://www.matthewdigiuseppe.com/papers/physical-consequences-fiscal-flexibility-sovereign.md): Clay, K.C., & DiGiuseppe, M. (2017). British Journal of Political Science, 47(4), pp. 783-807.
+- [Borrowed Time: Sovereign Finance, Regime Type, and Leader Survival](https://www.matthewdigiuseppe.com/papers/borrowed-time-sovereign-finance-regime.md): DiGiuseppe, M., & Shea, P.E. (2016). Economics & Politics, 28(3), pp. 342-367.
+- [Sovereign Credit and the Fate of Leaders: Reassessing the Democratic Advantage](https://www.matthewdigiuseppe.com/papers/sovereign-credit-fate-leaders-reassessing.md): DiGiuseppe, M., & Shea, P.E. (2015). International Studies Quarterly, 59(3), pp. 557-570.
+- [Guns, Butter, and Debt: Sovereign Creditworthiness and Military Expenditure](https://www.matthewdigiuseppe.com/papers/guns-butter-debt-sovereign-creditworthiness.md): DiGiuseppe, M. (2015). Journal of Peace Research, 52(5), pp. 680-693.
+- [Tightening the Belt: Sovereign Debt and Alliance Formation](https://www.matthewdigiuseppe.com/papers/tightening-belt-sovereign-debt-alliance.md): Allen, M.A., & DiGiuseppe, M. (2013). International Studies Quarterly, 57(4), pp. 647-659.
+- [Transparency, Risk, and FDI](https://www.matthewdigiuseppe.com/papers/transparency-risk-fdi.md): Barry, C.M., & DiGiuseppe, M. (2019). Political Research Quarterly, 72(1), pp. 132-146.
+- [Farming Then Fighting: The Relationship Between Idle Time and Social Conflict](https://www.matthewdigiuseppe.com/papers/farming-then-fighting-relationship-between.md): DiGiuseppe, M., van der Haer, R., & Rezaee, B. (2024). Political Science Research and Methods, 12(4), pp. 897-906.
+- [Threats and the Public Constraint on Military Spending](https://www.matthewdigiuseppe.com/papers/threats-public-constraint-military-spending.md): DiGiuseppe, M., Aspide, A., & Becker, J. (2024). British Journal of Political Science, 54(3), pp. 649-666.
+- [The Wedding Bells of War: The Influence of Armed Conflict on Child Marriages in West Africa](https://www.matthewdigiuseppe.com/papers/wedding-bells-war-influence-armed.md): DiGiuseppe, M., & van der Haer, R. (2023). Journal of Peace Research, 60(3), pp. 474-488.
+- [U.S. Patronage, State Capacity, and Civil Conflict](https://www.matthewdigiuseppe.com/papers/us-patronage-state-capacity-civil.md): DiGiuseppe, M., & Shea, P.E. (2022). Journal of Politics, 84(2), pp. 767-782.
+- [The Fiscal Autonomy of Deciders: Creditworthiness and Conflict Initiation](https://www.matthewdigiuseppe.com/papers/fiscal-autonomy-deciders-creditworthiness-conflict.md): DiGiuseppe, M. (2015). Foreign Policy Analysis, 11(3), pp. 317-338.
+- [Good for the Money? International Finance, State Capacity and Internal Armed Conflict](https://www.matthewdigiuseppe.com/papers/good-money-international-finance-state.md): DiGiuseppe, M., Barry, C.M., & Frank, R.W. (2012). Journal of Peace Research, 49(3), pp. 391-405.
+- [Alliances, Signals of Support, and Military Effort](https://www.matthewdigiuseppe.com/papers/alliances-signals-support-military-effort.md): DiGiuseppe, M., & Shea, P.E. (2021). European Journal of International Relations, 27(4), pp. 1067-1089.
+- [Arms versus Democratic Allies](https://www.matthewdigiuseppe.com/papers/arms-versus-democratic-allies.md): DiGiuseppe, M., & Poast, P. (2018). British Journal of Political Science, 48(4), pp. 981-1003.
+- [Scaling Open-ended Survey Responses Using LLM-Paired Comparisons](https://www.matthewdigiuseppe.com/papers/scaling-open-ended-survey-responses.md): DiGiuseppe, M., & Flynn, M.E. (2026). Public Opinion Quarterly, 90(1). Full text.
+- [Do Consumers Follow the Flag? Perceptions of Hostility and Consumer Preferences](https://www.matthewdigiuseppe.com/papers/do-consumers-follow-flag-perceptions.md): Barry, C.M., & DiGiuseppe, M. (2022). International Interactions, 48(6), pp. 1200-1215.
+- [Economics, Security, and Individual-Level Preferences for Trade Agreements](https://www.matthewdigiuseppe.com/papers/economics-security-individual-level-preferences.md): DiGiuseppe, M., & Kleinberg, K.B. (2019). International Interactions, 45(2), pp. 289-315.
+- [International Development NGOs and Bureaucratic Capacity: Facilitator or Destroyer?](https://www.matthewdigiuseppe.com/papers/international-development-ngos-bureaucratic-capacity.md): Campbell, S., DiGiuseppe, M., & Murdie, A. (2019). Political Research Quarterly, 72(1), pp. 3-18.
+
+## Optional
+
+- [Google Scholar profile](https://scholar.google.com/citations?user=uLty40oAAAAJ)
+- [GitHub](https://github.com/matthewdigiuseppe)

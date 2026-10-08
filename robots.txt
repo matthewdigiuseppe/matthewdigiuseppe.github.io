@@ -1,0 +1,6 @@
+# Everyone is welcome here, AI agents included.
+# Plain-text index of this site: https://www.matthewdigiuseppe.com/llms.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://www.matthewdigiuseppe.com/sitemap.xml

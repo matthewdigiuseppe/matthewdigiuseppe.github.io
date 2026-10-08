@@ -1,0 +1,400 @@
+{
+  "perceived-political-bias-llms-reduces": {
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Robison, Joshua"
+    ],
+    "year": 2026
+  },
+  "putting-public-public-debt": {
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Kantorowicz, Jaroslaw",
+      "González-Bustamante, Bastián",
+      "Aspide, Alessia"
+    ],
+    "year": 2026
+  },
+  "information-party-politics-public-support": {
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Garriga, Ana Carolina",
+      "Kern, Andreas"
+    ],
+    "year": 2025
+  },
+  "imf-scapegoat-survey-experiment-kenya": {
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Brown, Kathleen J.",
+      "Abouharb, M. Rodwan",
+      "Reinsberg, Bernhard"
+    ],
+    "year": 2024
+  },
+  "bottom-up-preferences-public-debt": {
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Del Ponte, Alessandro"
+    ],
+    "year": 2023
+  },
+  "ai-battlefield-revisiting-public-support": {
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Paula, Katrin",
+      "Rommel, Tobias"
+    ],
+    "year": 2025
+  },
+  "jev-versus-llms-accuracy-cost": {
+    "authors": [
+      "Denney, Steven",
+      "DiGiuseppe, Matthew"
+    ],
+    "year": 2026
+  },
+  "ad-machina-partisanship-support-delegating": {
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Paula, Katrin",
+      "Rommel, Tobias"
+    ],
+    "year": 2025
+  },
+  "external-threats-support-international-cooperation": {
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Becker, Jordan",
+      "Jee, Haemin",
+      "Kim, Tongfi"
+    ]
+  },
+  "llm-based-measurement-latent-attributes": {
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Fu, Xuelong",
+      "Flynn, Michael E."
+    ],
+    "year": 2026
+  },
+  "mass-politics-public-debt-immigration": {
+    "doi": "10.1080/13501763.2025.2510523",
+    "journal": "Journal of European Public Policy",
+    "year": 2026,
+    "volume": "33",
+    "number": "7",
+    "pages": "2010-2038",
+    "authors": [
+      "Aspide, Alessia",
+      "DiGiuseppe, Matthew"
+    ]
+  },
+  "information-uncertainty-public-support-brinkmanship": {
+    "doi": "10.1017/s0007123424000462",
+    "journal": "British Journal of Political Science",
+    "year": 2025,
+    "volume": "55",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Shea, Patrick E."
+    ],
+    "pages": "e14"
+  },
+  "ethnic-politics-sovereign-credit": {
+    "doi": "10.1080/09692290.2023.2225143",
+    "journal": "Review of International Political Economy",
+    "year": 2024,
+    "volume": "31",
+    "number": "2",
+    "pages": "589-621",
+    "authors": [
+      "Brown, Kathleen J.",
+      "DiGiuseppe, Matthew",
+      "Shea, Patrick E."
+    ]
+  },
+  "how-finance-green-investments-role": {
+    "doi": "10.1016/j.enpol.2023.113899",
+    "journal": "Energy Policy",
+    "year": 2024,
+    "volume": "184",
+    "pages": "113899",
+    "authors": [
+      "Kantorowicz, Jaroslaw",
+      "Collewet, Marion",
+      "DiGiuseppe, Matthew",
+      "Vrijburg, Hendrik"
+    ]
+  },
+  "age-support-public-debt-reduction": {
+    "doi": "10.1111/1475-6765.12577",
+    "journal": "European Journal of Political Research",
+    "year": 2023,
+    "volume": "62",
+    "number": "4",
+    "pages": "1191-1211",
+    "authors": [
+      "Aspide, Alessia",
+      "Brown, Kathleen J.",
+      "Digiuseppe, Matthew",
+      "Slaski, Alexander"
+    ]
+  },
+  "culture-european-attitudes-public-debt": {
+    "doi": "10.1080/13563467.2022.2143490",
+    "journal": "New Political Economy",
+    "year": 2023,
+    "volume": "28",
+    "number": "4",
+    "pages": "509-525",
+    "authors": [
+      "Aspide, Alessia",
+      "Brown, Kathleen J.",
+      "DiGiuseppe, Matthew",
+      "Slaski, Alexander"
+    ]
+  },
+  "devils-haircut-investor-state-disputes": {
+    "doi": "10.1177/0022002718811531",
+    "journal": "Journal of Conflict Resolution",
+    "year": 2019,
+    "volume": "63",
+    "number": "8",
+    "pages": "1889-1922",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Shea, Patrick E."
+    ]
+  },
+  "sovereign-credit-political-survival-democracies": {
+    "doi": "10.1017/bap.2018.2",
+    "journal": "Business and Politics",
+    "year": 2018,
+    "volume": "20",
+    "number": "3",
+    "pages": "360-389",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Shea, Patrick E."
+    ]
+  },
+  "physical-consequences-fiscal-flexibility-sovereign": {
+    "doi": "10.1017/s0007123415000502",
+    "journal": "British Journal of Political Science",
+    "year": 2017,
+    "volume": "47",
+    "number": "4",
+    "pages": "783-807",
+    "authors": [
+      "Clay, K. Chad",
+      "Digiuseppe, Matthew R."
+    ]
+  },
+  "borrowed-time-sovereign-finance-regime": {
+    "doi": "10.1111/ecpo.12081",
+    "journal": "Economics & Politics",
+    "year": 2016,
+    "volume": "28",
+    "number": "3",
+    "pages": "342-367",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Shea, Patrick E."
+    ]
+  },
+  "sovereign-credit-fate-leaders-reassessing": {
+    "doi": "10.1111/isqu.12181",
+    "journal": "International Studies Quarterly",
+    "year": 2015,
+    "volume": "59",
+    "number": "3",
+    "pages": "557-570",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Shea, Patrick E."
+    ]
+  },
+  "guns-butter-debt-sovereign-creditworthiness": {
+    "doi": "10.1177/0022343315587970",
+    "authors": [
+      "DiGiuseppe, Matthew"
+    ],
+    "journal": "Journal of Peace Research",
+    "year": 2015,
+    "volume": "52",
+    "number": "5",
+    "pages": "680-693"
+  },
+  "tightening-belt-sovereign-debt-alliance": {
+    "doi": "10.1111/isqu.12010",
+    "journal": "International Studies Quarterly",
+    "year": 2013,
+    "volume": "57",
+    "number": "4",
+    "pages": "647-659",
+    "authors": [
+      "ALLEN, MICHAEL A.",
+      "DIGIUSEPPE, MATTHEW"
+    ]
+  },
+  "transparency-risk-fdi": {
+    "doi": "10.1177/1065912918781037",
+    "journal": "Political Research Quarterly",
+    "year": 2019,
+    "volume": "72",
+    "number": "1",
+    "pages": "132-146",
+    "authors": [
+      "Barry, Colin M.",
+      "DiGiuseppe, Matthew"
+    ]
+  },
+  "farming-then-fighting-relationship-between": {
+    "doi": "10.1017/psrm.2024.6",
+    "journal": "Political Science Research and Methods",
+    "year": 2024,
+    "volume": "12",
+    "number": "4",
+    "pages": "897-906",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Haer, Roos",
+      "RezaeeDaryakenari, Babak"
+    ]
+  },
+  "threats-public-constraint-military-spending": {
+    "doi": "10.1017/s0007123423000443",
+    "journal": "British Journal of Political Science",
+    "year": 2024,
+    "volume": "54",
+    "number": "3",
+    "pages": "649-666",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Aspide, Alessia",
+      "Becker, Jordan"
+    ]
+  },
+  "wedding-bells-war-influence-armed": {
+    "doi": "10.1177/00223433221080056",
+    "journal": "Journal of Peace Research",
+    "year": 2023,
+    "volume": "60",
+    "number": "3",
+    "pages": "474-488",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Haer, Roos"
+    ]
+  },
+  "us-patronage-state-capacity-civil": {
+    "doi": "10.1086/715598",
+    "journal": "The Journal of Politics",
+    "year": 2022,
+    "volume": "84",
+    "number": "2",
+    "pages": "767-782",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Shea, Patrick E."
+    ]
+  },
+  "fiscal-autonomy-deciders-creditworthiness-conflict": {
+    "doi": "10.1111/fpa.12044",
+    "journal": "Foreign Policy Analysis",
+    "year": 2015,
+    "volume": "11",
+    "number": "3",
+    "pages": "317-338",
+    "authors": [
+      "DiGiuseppe, Matthew"
+    ]
+  },
+  "good-money-international-finance-state": {
+    "doi": "10.1177/0022343311434239",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Barry, Colin M.",
+      "Frank, Richard W."
+    ],
+    "journal": "Journal of Peace Research",
+    "year": 2012,
+    "volume": "49",
+    "number": "3",
+    "pages": "391-405"
+  },
+  "alliances-signals-support-military-effort": {
+    "doi": "10.1177/13540661211033890",
+    "journal": "European Journal of International Relations",
+    "year": 2021,
+    "volume": "27",
+    "number": "4",
+    "pages": "1067-1089",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Shea, Patrick E."
+    ]
+  },
+  "arms-versus-democratic-allies": {
+    "doi": "10.1017/s0007123416000247",
+    "journal": "British Journal of Political Science",
+    "year": 2018,
+    "volume": "48",
+    "number": "4",
+    "pages": "981-1003",
+    "authors": [
+      "Digiuseppe, Matthew",
+      "Poast, Paul"
+    ]
+  },
+  "scaling-open-ended-survey-responses": {
+    "doi": "10.1093/poq/nfag013",
+    "journal": "Public Opinion Quarterly",
+    "year": 2026,
+    "volume": "90",
+    "number": "3",
+    "pages": "630-656",
+    "authors": [
+      "DiGiuseppe, Matthew R",
+      "Flynn, Michael E"
+    ]
+  },
+  "do-consumers-follow-flag-perceptions": {
+    "doi": "10.1080/03050629.2022.2089133",
+    "journal": "International Interactions",
+    "year": 2022,
+    "volume": "48",
+    "number": "6",
+    "pages": "1200-1215",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Barry, Colin M."
+    ]
+  },
+  "economics-security-individual-level-preferences": {
+    "doi": "10.1080/03050629.2019.1551007",
+    "journal": "International Interactions",
+    "year": 2019,
+    "volume": "45",
+    "number": "2",
+    "pages": "289-315",
+    "authors": [
+      "DiGiuseppe, Matthew",
+      "Kleinberg, Katja B."
+    ]
+  },
+  "international-development-ngos-bureaucratic-capacity": {
+    "doi": "10.1177/1065912918772941",
+    "journal": "Political Research Quarterly",
+    "year": 2019,
+    "volume": "72",
+    "number": "1",
+    "pages": "3-18",
+    "authors": [
+      "Campbell, Susanna",
+      "DiGiuseppe, Matthew",
+      "Murdie, Amanda"
+    ]
+  }
+}
