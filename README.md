@@ -10,6 +10,17 @@ This is a single-page website with sections for:
 - Teaching
 - Contact
 
+## Files for AI agents
+
+Plain-text copies of the site, so agents and search tools can read it without parsing HTML or PDFs:
+
+- `llms.txt`: index of everything, following the [llms.txt](https://llmstxt.org) convention
+- `llms-full.txt`: the whole site in one Markdown file, with every abstract
+- `papers/<slug>.md`: one file per paper with citation details, the abstract, and the full text where a public preprint exists
+- `cv.md`, `publications.bib`, `sitemap.xml`, `robots.txt`
+
+After editing `index.html`, run `python3 scripts/build_agent_files.py` to bring them up to date. See `CLAUDE.md` for details.
+
 ## Deployment Instructions for GitHub Pages
 
 1. Create a new GitHub repository (e.g., `username.github.io` for a user site or any repository name for a project site)

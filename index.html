@@ -26,6 +26,7 @@
     <meta name="twitter:image" content="https://www.matthewdigiuseppe.com/actionshot2.jpeg">
 
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="alternate" type="text/plain" href="llms.txt" title="Plain-text index of this site for AI agents">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -39,14 +40,73 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Matthew DiGiuseppe",
-      "jobTitle": "Associate Professor of Political Science and International Relations",
-      "affiliation": {
-        "@type": "CollegeOrUniversity",
-        "name": "Leiden University"
-      },
-      "url": "https://www.matthewdigiuseppe.com/"
+      "@graph": [
+        {
+          "@type": "Person",
+          "@id": "https://www.matthewdigiuseppe.com/#person",
+          "name": "Matthew DiGiuseppe",
+          "jobTitle": "Associate Professor of Political Science and International Relations",
+          "description": "Matthew DiGiuseppe is an Associate Professor of Political Science and International Relations at Leiden University. Research: international and comparative political economy, conflict, alliances, and AI politics.",
+          "affiliation": {
+            "@type": "CollegeOrUniversity",
+            "name": "Leiden University",
+            "department": {
+              "@type": "Organization",
+              "name": "Institute of Political Science"
+            }
+          },
+          "url": "https://www.matthewdigiuseppe.com/",
+          "image": "https://www.matthewdigiuseppe.com/actionshot2.jpeg",
+          "sameAs": [
+            "https://scholar.google.com/citations?user=uLty40oAAAAJ",
+            "https://github.com/matthewdigiuseppe"
+          ],
+          "knowsAbout": [
+            "International political economy",
+            "Comparative political economy",
+            "Sovereign debt",
+            "Public opinion on public debt",
+            "Armed conflict",
+            "Alliance politics",
+            "Politics of artificial intelligence",
+            "Large language models in social science"
+          ],
+          "subjectOf": {
+            "@type": "DigitalDocument",
+            "name": "Curriculum Vitae",
+            "url": "https://www.matthewdigiuseppe.com/CV.pdf"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://www.matthewdigiuseppe.com/#website",
+          "url": "https://www.matthewdigiuseppe.com/",
+          "name": "Matthew DiGiuseppe",
+          "author": {
+            "@id": "https://www.matthewdigiuseppe.com/#person"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Publications and working papers of Matthew DiGiuseppe",
+          "description": "Citation details, abstracts and (where public) full texts of 36 papers, as plain text.",
+          "creator": {
+            "@id": "https://www.matthewdigiuseppe.com/#person"
+          },
+          "distribution": [
+            {
+              "@type": "DataDownload",
+              "encodingFormat": "text/markdown",
+              "contentUrl": "https://www.matthewdigiuseppe.com/llms-full.txt"
+            },
+            {
+              "@type": "DataDownload",
+              "encodingFormat": "application/x-bibtex",
+              "contentUrl": "https://www.matthewdigiuseppe.com/publications.bib"
+            }
+          ]
+        }
+      ]
     }
     </script>
     <script data-goatcounter="https://mattdigiuseppe.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
@@ -148,7 +208,7 @@
                 <div class="publication-category">
                     <h4 id="wp-recently-accepted">Recently Accepted</h4>
                     <ul class="publication-list">
-                        <li class="publication-item" id="paper-perceived-political-bias-llms">
+                        <li class="publication-item" id="paper-perceived-political-bias-llms" data-paper="perceived-political-bias-llms-reduces">
                             <p class="publication-title">Perceived Political Bias in LLMs Reduces Persuasive Abilities
                             </p>
                             <p class="publication-authors">DiGiuseppe, M., &amp; Robison, J.</p>
@@ -156,9 +216,11 @@
                             <div class="publication-links">
                                 <a href="https://arxiv.org/abs/2602.18092" target="_blank" rel="noopener noreferrer"
                                     class="publication-link">Preprint on arXiv</a>
+                                <a href="papers/perceived-political-bias-llms-reduces.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
-                        <li class="publication-item" id="paper-putting-public-in-public-debt">
+                        <li class="publication-item" id="paper-putting-public-in-public-debt" data-paper="putting-public-public-debt">
                             <p class="publication-title">Putting the Public in Public Debt</p>
                             <p class="publication-authors">DiGiuseppe, M., Kantorowicz, J., González-Bustamante, B., &
                                 Aspide, A.</p>
@@ -166,9 +228,11 @@
                             <div class="publication-links">
                                 <a href="Putting_the_Public_in_Public_Debt_Sept2026.pdf" target="_blank"
                                     rel="noopener noreferrer" class="publication-link">PDF</a>
+                                <a href="papers/putting-public-public-debt.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
-                        <li class="publication-item" id="paper-cbi">
+                        <li class="publication-item" id="paper-cbi" data-paper="information-party-politics-public-support">
                             <p class="publication-title">Information, Party Politics, and Public Support for Central
                                 Bank Independence</p>
                             <p class="publication-authors">DiGiuseppe, M., Garriga, A.C., & Kern, A.</p>
@@ -176,9 +240,11 @@
                             <div class="publication-links">
                                 <a href="https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5128037" target="_blank"
                                     rel="noopener noreferrer" class="publication-link">PDF on SSRN</a>
+                                <a href="papers/information-party-politics-public-support.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
-                        <li class="publication-item" id="paper-imf-scapegoat">
+                        <li class="publication-item" id="paper-imf-scapegoat" data-paper="imf-scapegoat-survey-experiment-kenya">
                             <p class="publication-title">Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana
                             </p>
                             <p class="publication-authors">DiGiuseppe, M., Brown, K., Abouharb, R., & Resinsberg, B.</p>
@@ -186,6 +252,8 @@
                             <div class="publication-links">
                                 <a href="https://www.peio.me/wp-content/uploads/PEIO16/submission_76.pdf"
                                     target="_blank" rel="noopener noreferrer" class="publication-link">PDF on PEIO</a>
+                                <a href="papers/imf-scapegoat-survey-experiment-kenya.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
                     </ul>
@@ -194,21 +262,25 @@
                 <div class="publication-category">
                     <h4 id="wp-rr">Revise &amp; Resubmit</h4>
                     <ul class="publication-list">
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="bottom-up-preferences-public-debt">
                             <p class="publication-title">Bottom-Up Preferences for Public Debt Reduction and Repayment
                             </p>
                             <p class="publication-authors">DiGiuseppe, M., & Del Ponte, A.</p>
                             <div class="publication-links">
                                 <a href="https://files.osf.io/v1/resources/wxr67/providers/osfstorage/6558687cf6ce3c224d50514e?action=download&direct&version=1"
                                     target="_blank" rel="noopener noreferrer" class="publication-link">PDF on OSF</a>
+                                <a href="papers/bottom-up-preferences-public-debt.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="ai-battlefield-revisiting-public-support">
                             <p class="publication-title">AI on the Battlefield? Revisiting Public Support for LAWs</p>
                             <p class="publication-authors">DiGiuseppe, M., Paula, K., &amp; Rommel, T.</p>
                             <div class="publication-links">
                                 <a href="https://osf.io/preprints/socarxiv/s8ab5_v1" target="_blank"
                                     rel="noopener noreferrer" class="publication-link">Preprint on OSF</a>
+                                <a href="papers/ai-battlefield-revisiting-public-support.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
                     </ul>
@@ -218,25 +290,29 @@
                 <div class="publication-category">
                     <h4 id="wp-under-review">Under Review</h4>
                     <ul class="publication-list">
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="jev-versus-llms-accuracy-cost">
                             <p class="publication-title">JEV versus LLMs: Accuracy, Cost and Calibration on Seven
                                 Political Science Replications</p>
                             <p class="publication-authors">Denney, S., &amp; DiGiuseppe, M.</p>
                             <div class="publication-links">
                                 <a href="https://arxiv.org/abs/2610.06625" target="_blank" rel="noopener noreferrer"
                                     class="publication-link">Preprint on arXiv</a>
+                                <a href="papers/jev-versus-llms-accuracy-cost.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="ad-machina-partisanship-support-delegating">
                             <p class="publication-title">Ad Machina: Partisanship and Support for Delegating Government
                                 Decisions to Autonomous Algorithms</p>
                             <p class="publication-authors">DiGiuseppe, M., Paula, K., &amp; Rommel, T.</p>
                             <div class="publication-links">
                                 <a href="https://osf.io/preprints/socarxiv/rnj5h_v2" target="_blank"
                                     rel="noopener noreferrer" class="publication-link">Preprint on OSF</a>
+                                <a href="papers/ad-machina-partisanship-support-delegating.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="external-threats-support-international-cooperation">
                             <p class="publication-title">External Threats and Support for International Cooperation</p>
                             <p class="publication-authors">DiGiuseppe, M., Becker, J., Jee, H., & Kim, T.</p>
                         </li>
@@ -246,47 +322,57 @@
                 <div class="publication-category">
                     <h4 id="ai-politics">AI &amp; Politics</h4>
                     <ul class="publication-list">
-                        <li class="publication-item" id="paper-jev-vs-llms">
+                        <li class="publication-item" id="paper-jev-vs-llms" data-paper="jev-versus-llms-accuracy-cost">
                             <p class="publication-title">JEV versus LLMs: Accuracy, Cost and Calibration on Seven
                                 Political Science Replications</p>
                             <p class="publication-authors">Denney, S., &amp; DiGiuseppe, M.</p>
                             <div class="publication-links">
                                 <a href="https://arxiv.org/abs/2610.06625" target="_blank" rel="noopener noreferrer"
                                     class="publication-link">Preprint on arXiv</a>
+                                <a href="papers/jev-versus-llms-accuracy-cost.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
-                        <li class="publication-item" id="paper-ad-machina">
+                        <li class="publication-item" id="paper-ad-machina" data-paper="ad-machina-partisanship-support-delegating">
                             <p class="publication-title">Ad Machina: Partisanship and Support for Delegating Government
                                 Decisions to Autonomous Algorithms</p>
                             <p class="publication-authors">DiGiuseppe, M., Paula, K., &amp; Rommel, T.</p>
                             <div class="publication-links">
                                 <a href="https://osf.io/preprints/socarxiv/rnj5h_v2" target="_blank"
                                     rel="noopener noreferrer" class="publication-link">Preprint on OSF</a>
+                                <a href="papers/ad-machina-partisanship-support-delegating.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
-                        <li class="publication-item" id="paper-ai-battlefield">
+                        <li class="publication-item" id="paper-ai-battlefield" data-paper="ai-battlefield-revisiting-public-support">
                             <p class="publication-title">AI on the Battlefield? Revisiting Public Support for LAWs</p>
                             <p class="publication-authors">DiGiuseppe, M., Paula, K., &amp; Rommel, T.</p>
                             <div class="publication-links">
                                 <a href="https://osf.io/preprints/socarxiv/s8ab5_v1" target="_blank"
                                     rel="noopener noreferrer" class="publication-link">Preprint on OSF</a>
+                                <a href="papers/ai-battlefield-revisiting-public-support.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
-                        <li class="publication-item" id="paper-llm-political-bias">
+                        <li class="publication-item" id="paper-llm-political-bias" data-paper="perceived-political-bias-llms-reduces">
                             <p class="publication-title">Perceived Political Bias in LLMs Reduces Persuasive Abilities
                             </p>
                             <p class="publication-authors">DiGiuseppe, M., &amp; Robison, J.</p>
                             <div class="publication-links">
                                 <a href="https://arxiv.org/abs/2602.18092" target="_blank" rel="noopener noreferrer"
                                     class="publication-link">Preprint on arXiv</a>
+                                <a href="papers/perceived-political-bias-llms-reduces.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
-                        <li class="publication-item" id="paper-llm-trade-data">
+                        <li class="publication-item" id="paper-llm-trade-data" data-paper="llm-based-measurement-latent-attributes">
                             <p class="publication-title">LLM-Based Measurement of Latent Attributes in Trade Data</p>
                             <p class="publication-authors">DiGiuseppe, M., Fu, X., &amp; Flynn, M.</p>
                             <div class="publication-links">
                                 <a href="https://osf.io/preprints/socarxiv/394w2" target="_blank"
                                     rel="noopener noreferrer" class="publication-link">Preprint on OSF</a>
+                                <a href="papers/llm-based-measurement-latent-attributes.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
                     </ul>
@@ -299,7 +385,7 @@
                 <div class="publication-category">
                     <h4 id="pub-pe-debt">Political Economy &amp; Sovereign Debt</h4>
                     <ul class="publication-list">
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="mass-politics-public-debt-immigration">
                             <p class="publication-title">The Mass Politics of Public Debt, Immigration, and Austerity
                             </p>
                             <p class="publication-authors">Aspide, A., & DiGiuseppe, M. (2025)</p>
@@ -310,7 +396,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="information-uncertainty-public-support-brinkmanship">
                             <p class="publication-title">Information, Uncertainty, & Public Support for Brinkmanship
                                 during the 2023 Debt Limit Negotiations</p>
                             <p class="publication-authors">DiGiuseppe, M., & Shea, P.E. (2025)</p>
@@ -320,7 +406,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="ethnic-politics-sovereign-credit">
                             <p class="publication-title">Ethnic Politics and Sovereign Credit</p>
                             <p class="publication-authors">DiGiuseppe, M., Brown, K.J., & Shea, P.E. (2024)</p>
                             <p class="publication-journal">Review of International Political Economy, 31(2), pp. 589-621
@@ -330,7 +416,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="how-finance-green-investments-role">
                             <p class="publication-title">How to Finance Green Investments? The Role of Public Debt</p>
                             <p class="publication-authors">Kantorowicz, J., Collewet, M., DiGiuseppe, M., & Vrijburg, H.
                                 (2024)</p>
@@ -340,7 +426,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="age-support-public-debt-reduction">
                             <p class="publication-title">Age and Support for Public Debt Reduction</p>
                             <p class="publication-authors">Aspide, A., Brown, K.J., DiGiuseppe, M., & Slaski, A. (2023)
                             </p>
@@ -351,7 +437,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="culture-european-attitudes-public-debt">
                             <p class="publication-title">Culture & European Attitudes on Public Debt</p>
                             <p class="publication-authors">Aspide, A., Brown, K.J., DiGiuseppe, M., & Slaski, A. (2023)
                             </p>
@@ -361,7 +447,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="devils-haircut-investor-state-disputes">
                             <p class="publication-title">The Devil's Haircut: Investor–State Disputes over Debt
                                 Restructuring</p>
                             <p class="publication-authors">DiGiuseppe, M., & Shea, P.E. (2019)</p>
@@ -371,7 +457,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="sovereign-credit-political-survival-democracies">
                             <p class="publication-title">Sovereign Credit and Political Survival in Democracies</p>
                             <p class="publication-authors">DiGiuseppe, M., & Shea, P.E. (2018)</p>
                             <p class="publication-journal">Business and Politics, 20(3), pp. 360-389</p>
@@ -380,7 +466,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="physical-consequences-fiscal-flexibility-sovereign">
                             <p class="publication-title">The Physical Consequences of Fiscal Flexibility: Sovereign
                                 Credit and Physical Integrity Rights</p>
                             <p class="publication-authors">Clay, K.C., & DiGiuseppe, M. (2017)</p>
@@ -390,7 +476,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="borrowed-time-sovereign-finance-regime">
                             <p class="publication-title">Borrowed Time: Sovereign Finance, Regime Type, and Leader
                                 Survival</p>
                             <p class="publication-authors">DiGiuseppe, M., & Shea, P.E. (2016)</p>
@@ -400,7 +486,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="sovereign-credit-fate-leaders-reassessing">
                             <p class="publication-title">Sovereign Credit and the Fate of Leaders: Reassessing the
                                 Democratic Advantage</p>
                             <p class="publication-authors">DiGiuseppe, M., & Shea, P.E. (2015)</p>
@@ -410,7 +496,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="guns-butter-debt-sovereign-creditworthiness">
                             <p class="publication-title">Guns, Butter, and Debt: Sovereign Creditworthiness and Military
                                 Expenditure</p>
                             <p class="publication-authors">DiGiuseppe, M. (2015)</p>
@@ -420,7 +506,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="tightening-belt-sovereign-debt-alliance">
                             <p class="publication-title">Tightening the Belt: Sovereign Debt and Alliance Formation</p>
                             <p class="publication-authors">Allen, M.A., & DiGiuseppe, M. (2013)</p>
                             <p class="publication-journal">International Studies Quarterly, 57(4), pp. 647-659</p>
@@ -429,7 +515,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="transparency-risk-fdi">
                             <p class="publication-title">Transparency, Risk, and FDI</p>
                             <p class="publication-authors">Barry, C.M., & DiGiuseppe, M. (2019)</p>
                             <p class="publication-journal">Political Research Quarterly, 72(1), pp. 132-146</p>
@@ -444,7 +530,7 @@
                 <div class="publication-category">
                     <h4 id="pub-conflict-security">Conflict &amp; Security</h4>
                     <ul class="publication-list">
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="farming-then-fighting-relationship-between">
                             <p class="publication-title">Farming Then Fighting: The Relationship Between Idle Time and
                                 Social Conflict</p>
                             <p class="publication-authors">DiGiuseppe, M., van der Haer, R., & Rezaee, B. (2024)</p>
@@ -455,7 +541,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="threats-public-constraint-military-spending">
                             <p class="publication-title">Threats and the Public Constraint on Military Spending</p>
                             <p class="publication-authors">DiGiuseppe, M., Aspide, A., & Becker, J. (2024)</p>
                             <p class="publication-journal">British Journal of Political Science, 54(3), pp. 649-666</p>
@@ -464,7 +550,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="wedding-bells-war-influence-armed">
                             <p class="publication-title">The Wedding Bells of War: The Influence of Armed Conflict on
                                 Child Marriages in West Africa</p>
                             <p class="publication-authors">DiGiuseppe, M., & van der Haer, R. (2023)</p>
@@ -474,7 +560,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="us-patronage-state-capacity-civil">
                             <p class="publication-title">U.S. Patronage, State Capacity, and Civil Conflict</p>
                             <p class="publication-authors">DiGiuseppe, M., & Shea, P.E. (2022)</p>
                             <p class="publication-journal">Journal of Politics, 84(2), pp. 767-782</p>
@@ -483,7 +569,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="fiscal-autonomy-deciders-creditworthiness-conflict">
                             <p class="publication-title">The Fiscal Autonomy of Deciders: Creditworthiness and Conflict
                                 Initiation</p>
                             <p class="publication-authors">DiGiuseppe, M. (2015)</p>
@@ -493,7 +579,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="good-money-international-finance-state">
                             <p class="publication-title">Good for the Money? International Finance, State Capacity and
                                 Internal Armed Conflict</p>
                             <p class="publication-authors">DiGiuseppe, M., Barry, C.M., & Frank, R.W. (2012)</p>
@@ -509,7 +595,7 @@
                 <div class="publication-category">
                     <h4 id="pub-alliances">Alliance Politics</h4>
                     <ul class="publication-list">
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="alliances-signals-support-military-effort">
                             <p class="publication-title">Alliances, Signals of Support, and Military Effort</p>
                             <p class="publication-authors">DiGiuseppe, M., & Shea, P.E. (2021)</p>
                             <p class="publication-journal">European Journal of International Relations, 27(4), pp.
@@ -519,7 +605,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="arms-versus-democratic-allies">
                             <p class="publication-title">Arms versus Democratic Allies</p>
                             <p class="publication-authors">DiGiuseppe, M., & Poast, P. (2018)</p>
                             <p class="publication-journal">British Journal of Political Science, 48(4), pp. 981-1003</p>
@@ -528,7 +614,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="tightening-belt-sovereign-debt-alliance">
                             <p class="publication-title">Tightening the Belt: Sovereign Debt and Alliance Formation</p>
                             <p class="publication-authors">Allen, M.A., & DiGiuseppe, M. (2013)</p>
                             <p class="publication-journal">International Studies Quarterly, 57(4), pp. 647-659</p>
@@ -543,7 +629,7 @@
                 <div class="publication-category">
                     <h4 id="pub-behavior">Political Behavior &amp; Policy Preferences</h4>
                     <ul class="publication-list">
-                        <li class="publication-item" id="paper-llm-paired-comparisons">
+                        <li class="publication-item" id="paper-llm-paired-comparisons" data-paper="scaling-open-ended-survey-responses">
                             <p class="publication-title">Scaling Open-ended Survey Responses Using LLM-Paired
                                 Comparisons</p>
                             <p class="publication-authors">DiGiuseppe, M., & Flynn, M.E. (2026)</p>
@@ -551,9 +637,11 @@
                             <div class="publication-links">
                                 <a href="https://osf.io/preprints/socarxiv/39ajg_v2" target="_blank"
                                     rel="noopener noreferrer" class="publication-link">PDF on OSF</a>
+                                <a href="papers/scaling-open-ended-survey-responses.md" type="text/markdown" target="_blank" rel="noopener noreferrer"
+                                    class="publication-link">Plain text</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="do-consumers-follow-flag-perceptions">
                             <p class="publication-title">Do Consumers Follow the Flag? Perceptions of Hostility and
                                 Consumer Preferences</p>
                             <p class="publication-authors">Barry, C.M., & DiGiuseppe, M. (2022)</p>
@@ -563,7 +651,7 @@
                                     target="_blank" rel="noopener noreferrer" class="publication-link">Link</a>
                             </div>
                         </li>
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="economics-security-individual-level-preferences">
                             <p class="publication-title">Economics, Security, and Individual-Level Preferences for Trade
                                 Agreements</p>
                             <p class="publication-authors">DiGiuseppe, M., & Kleinberg, K.B. (2019)</p>
@@ -579,7 +667,7 @@
                 <div class="publication-category">
                     <h4 id="pub-ngos">NGOs</h4>
                     <ul class="publication-list">
-                        <li class="publication-item">
+                        <li class="publication-item" data-paper="international-development-ngos-bureaucratic-capacity">
                             <p class="publication-title">International Development NGOs and Bureaucratic Capacity:
                                 Facilitator or Destroyer?</p>
                             <p class="publication-authors">Campbell, S., DiGiuseppe, M., & Murdie, A. (2019)</p>
@@ -753,6 +841,8 @@
             <p><a class="quiet-link" href="/slides/" aria-label="Talk slides">&copy; <span id="year"></span> Matthew DiGiuseppe. All rights reserved.</a></p>
             <p style="font-size: 0.8rem; margin-top: 0.5rem; opacity: 0.7;">Background image: "The Battle of the Money
                 Bags and Strong Boxes" by Pieter Bruegel the Elder.</p>
+            <p class="footer-note">Plain-text versions of this site for AI agents and text tools:
+                <a href="llms.txt">llms.txt</a></p>
         </div>
     </footer>
 
