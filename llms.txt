@@ -14,7 +14,7 @@ This file lists everything on the site in plain text. Each paper has its own Mar
 
 ## Working papers
 
-- [Perceived Political Bias in LLMs Reduces Persuasive Abilities](https://www.matthewdigiuseppe.com/papers/perceived-political-bias-llms-reduces.md): DiGiuseppe, M., & Robison, J. (2026). Forthcoming at PNAS Nexus. Full text.
+- [Perceived Political Bias in LLMs Reduces Persuasive Abilities](https://www.matthewdigiuseppe.com/papers/perceived-political-bias-llms-reduces.md): DiGiuseppe, M., & Robison, J. (2026). PNAS Nexus, 5(10), pgag324. Full text.
 - [Putting the Public in Public Debt](https://www.matthewdigiuseppe.com/papers/putting-public-public-debt.md): DiGiuseppe, M., Kantorowicz, J., González-Bustamante, B., & Aspide, A. (2026). Conditionally accepted at Public Choice. Full text.
 - [Information, Party Politics, and Public Support for Central Bank Independence](https://www.matthewdigiuseppe.com/papers/information-party-politics-public-support.md): DiGiuseppe, M., Garriga, A.C., & Kern, A. (2025). Forthcoming at British Journal of Political Science. Full text.
 - [Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana](https://www.matthewdigiuseppe.com/papers/imf-scapegoat-survey-experiment-kenya.md): DiGiuseppe, M., Brown, K., Abouharb, R., & Resinsberg, B. (2024). Forthcoming at International Studies Quarterly. Full text.
