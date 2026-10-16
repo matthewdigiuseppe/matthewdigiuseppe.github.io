@@ -3,7 +3,7 @@ title: "Information, Party Politics, and Public Support for Central Bank Indepen
 authors: ["Matthew DiGiuseppe", "Ana Carolina Garriga", "Andreas Kern"]
 year: 2025
 status: "Working paper (recently accepted)"
-venue: "Conditionally accepted at British Journal of Political Science"
+venue: "Forthcoming at British Journal of Political Science"
 url: "https://www.matthewdigiuseppe.com/papers/information-party-politics-public-support.md"
 links: {"PDF on SSRN": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5128037"}
 full_text: true
@@ -11,7 +11,7 @@ full_text: true
 
 # Information, Party Politics, and Public Support for Central Bank Independence
 
-DiGiuseppe, M., Garriga, A.C., & Kern, A. (2025). Information, Party Politics, and Public Support for Central Bank Independence. Conditionally accepted at British Journal of Political Science.
+DiGiuseppe, M., Garriga, A.C., & Kern, A. (2025). Information, Party Politics, and Public Support for Central Bank Independence. Forthcoming at British Journal of Political Science.
 
 - Status: Working paper (recently accepted)
 - PDF on SSRN: https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5128037

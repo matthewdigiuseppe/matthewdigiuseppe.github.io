@@ -51,8 +51,8 @@ Institute of Political Science, Universiteit Leiden
 
 30. Perceived Political Bias in LLMs Reduces Persuasive Abilities (with Joshua Robison). *PNAS Nexus*. Forthcoming.
 29. Putting the Public in Public Debt (with Jaroslaw Kantorowicz, Bastián González-Bustamante, and Alessia Aspide). *Public Choice*. Conditionally accepted.
-28. Information, Party Politics, and Public Support for Central Bank Independence (with Ana Carolina Garriga and Andreas Kern). *British Journal of Political Science*. Conditionally accepted.
-27. Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana (with Kathleen Brown, Rod Abouharb, and Bernhard Reinsberg). *International Studies Quarterly*. Conditionally accepted.
+28. Information, Party Politics, and Public Support for Central Bank Independence (with Ana Carolina Garriga and Andreas Kern). *British Journal of Political Science*. Forthcoming.
+27. Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana (with Kathleen Brown, Rod Abouharb, and Bernhard Reinsberg). *International Studies Quarterly*. Forthcoming.
 26. Scaling Open-ended Survey Responses Using LLM-Paired Comparisons (with Michael E. Flynn). 2026. *Public Opinion Quarterly* 90(1).
 25. The Mass Politics of Public Debt, Immigration, and Austerity (with Alessia Aspide). 2025. *Journal of European Public Policy*, online first.
 24. Information, Uncertainty, and Public Support for Brinkmanship during the 2023 Debt Limit Negotiations (with Patrick Shea). 2025. *British Journal of Political Science* 55: e14.
