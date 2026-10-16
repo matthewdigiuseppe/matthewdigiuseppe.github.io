@@ -3,19 +3,22 @@ title: "Perceived Political Bias in LLMs Reduces Persuasive Abilities"
 authors: ["Matthew DiGiuseppe", "Joshua Robison"]
 year: 2026
 status: "Working paper (recently accepted)"
-venue: "Forthcoming at PNAS Nexus"
+venue: "PNAS Nexus, 5(10), pgag324"
 topics: ["AI & Politics"]
+doi: "10.1093/pnasnexus/pgag324"
 url: "https://www.matthewdigiuseppe.com/papers/perceived-political-bias-llms-reduces.md"
-links: {"Preprint on arXiv": "https://arxiv.org/abs/2602.18092"}
+links: {"Link": "https://academic.oup.com/pnasnexus/article/doi/10.1093/pnasnexus/pgag324/8898473", "Preprint on arXiv": "https://arxiv.org/abs/2602.18092"}
 full_text: true
 ---
 
 # Perceived Political Bias in LLMs Reduces Persuasive Abilities
 
-DiGiuseppe, M., & Robison, J. (2026). Perceived Political Bias in LLMs Reduces Persuasive Abilities. Forthcoming at PNAS Nexus.
+DiGiuseppe, M., & Robison, J. (2026). Perceived Political Bias in LLMs Reduces Persuasive Abilities. PNAS Nexus, 5(10), pgag324.
 
 - Status: Working paper (recently accepted)
 - Topics: AI & Politics
+- DOI: https://doi.org/10.1093/pnasnexus/pgag324
+- Link: https://academic.oup.com/pnasnexus/article/doi/10.1093/pnasnexus/pgag324/8898473
 - Preprint on arXiv: https://arxiv.org/abs/2602.18092
 - Listed on: https://www.matthewdigiuseppe.com/#research
 

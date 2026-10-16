@@ -3,7 +3,7 @@ title: "Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana"
 authors: ["Matthew DiGiuseppe", "Kathleen J. Brown", "M. Rodwan Abouharb", "Bernhard Reinsberg"]
 year: 2024
 status: "Working paper (recently accepted)"
-venue: "Conditionally accepted at International Studies Quarterly"
+venue: "Forthcoming at International Studies Quarterly"
 url: "https://www.matthewdigiuseppe.com/papers/imf-scapegoat-survey-experiment-kenya.md"
 links: {"PDF on PEIO": "https://www.peio.me/wp-content/uploads/PEIO16/submission_76.pdf"}
 full_text: true
@@ -11,7 +11,7 @@ full_text: true
 
 # Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana
 
-DiGiuseppe, M., Brown, K., Abouharb, R., & Resinsberg, B. (2024). Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana. Conditionally accepted at International Studies Quarterly.
+DiGiuseppe, M., Brown, K., Abouharb, R., & Resinsberg, B. (2024). Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana. Forthcoming at International Studies Quarterly.
 
 - Status: Working paper (recently accepted)
 - PDF on PEIO: https://www.peio.me/wp-content/uploads/PEIO16/submission_76.pdf
