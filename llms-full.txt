@@ -75,6 +75,13 @@ DiGiuseppe, M., Brown, K., Abouharb, R., & Resinsberg, B. (2024). Is the IMF a S
 
 Many scholars and practitioners have proposed that leaders ‘scapegoat’ the IMF for unpalatable economic reform programs often undertaken during times of economic crisis. However, there is limited evidence that these tactics are effective in shifting citizens’ blame onto the IMF, or that they protect the government from public protest or electoral punishment. This research note seeks to test the micro-foundations of the scapegoat hypothesis with a high-powered online survey experiment in Kenya. Our study provides two insights. First, we find that blaming the IMF has small but significant effects on incumbent support. However, this effect is insignificant when respondents are also exposed to counter-narratives in which the opposition blames the government. Second, we find that blame is not zero-sum. While attributing blame to the IMF increases respondents’ own blame attribution to the IMF, it does not significantly reduce the blame placed on the incumbent. Overall, the results question the political utility of the scapegoating strategy.
 
+### Prediction in Political Economy: Pre-Registered Forecasts of Sovereign Debt Crises
+
+Shea, P.E., & DiGiuseppe, M. (2026). Prediction in Political Economy: Pre-Registered Forecasts of Sovereign Debt Crises.
+
+- Status: Working paper (revise & resubmit)
+- Text version: https://www.matthewdigiuseppe.com/papers/prediction-political-economy-pre-registered.md
+
 ### Bottom-Up Preferences for Public Debt Reduction and Repayment
 
 DiGiuseppe, M., & Del Ponte, A. (2023). Bottom-Up Preferences for Public Debt Reduction and Repayment.
