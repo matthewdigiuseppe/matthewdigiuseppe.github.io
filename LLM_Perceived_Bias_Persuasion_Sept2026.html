@@ -20,7 +20,7 @@ window.MathJax = {
   startup: { typeset: false }
 };
 </script>
-<script defer id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+<script defer id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@4.1.3/tex-mml-chtml.js" integrity="sha384-OrHfGTnIbkl0do3N76qW/uWr38o91N05sbSPuYBPLH+hG8X/dNSrjZf3AGjzrCwC" crossorigin="anonymous"></script>
 <style id="app-styles">
 :root {
   --ui-bg: #f4f2ed;
@@ -4257,7 +4257,7 @@ function speakerDocumentHTML() {
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="${fontHref}"><style>${styles}</style>
 <script>window.MathJax={tex:{inlineMath:[[\"$\",\"$\"],[\"\\\\(\",\"\\\\)\"]],displayMath:[[\"$$\",\"$$\"],[\"\\\\[\",\"\\\\]\"]],processEscapes:true},startup:{typeset:false}};<\/script>
-<script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"><\/script></head>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@4.1.3/tex-mml-chtml.js" integrity="sha384-OrHfGTnIbkl0do3N76qW/uWr38o91N05sbSPuYBPLH+hG8X/dNSrjZf3AGjzrCwC" crossorigin="anonymous"><\/script></head>
 <body class="speaker-body">
 <section class="speaker-panel"><div class="speaker-label">Current</div><div id="speaker-current" class="speaker-slot"></div></section>
 <section class="speaker-panel"><div class="speaker-label">Next</div><div id="speaker-next" class="speaker-slot"></div></section>
@@ -4635,6 +4635,7 @@ async function loadFromQuery(deckValue) {
   for (const candidate of candidateUrls(deckValue)) {
     try {
       const absolute = new URL(candidate, location.href);
+      if (absolute.origin !== location.origin) throw new Error('Decks can only be loaded from this website.');
       const response = await fetch(absolute.href, {cache:'no-store'});
       if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
       const text = await response.text();
