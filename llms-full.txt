@@ -12,23 +12,23 @@ Associate Professor of Political Science and International Relations
 
 Institute of Political Science, Leiden University
 
-My research and teaching interests include international and comparative political economy, armed conflict, interstate alliances and the politics of artificial intelligence. I am currently the PI on the [Microfoundations of Debt Crises (MIDEBT)](https://www.midebt.org/) project that is funded by an ERC Starting Grant.
+My research and teaching interests include international and comparative political economy, armed conflict, interstate alliances and the politics of artificial intelligence. I am currently the PI on an NWO XS project on political polarization and public support for AI governance. I was previously the PI on the [Microfoundations of Debt Crises (MIDEBT)](https://www.midebt.org/) project, funded by an ERC Starting Grant.
 
 CV: https://www.matthewdigiuseppe.com/CV.pdf (text version: https://www.matthewdigiuseppe.com/cv.md)
 
 ## Current projects
-
-### Microfoundations of Debt Crises (MIDEBT)
-
-Funded by an ERC Starting Grant
-
-This project investigates how the public thinks about public debt and how that influences the accumulation of public debt and the reluctance to reduce it. [Project Page](https://www.midebt.org/)
 
 ### Political Polarization and Public Support for AI Governance
 
 Funded by an NWO XS Grant (starting October 2026)
 
 This project examines how political polarization shapes public attitudes toward governance by artificial intelligence.
+
+### Microfoundations of Debt Crises (MIDEBT)
+
+Funded by an ERC Starting Grant (ended September 2026)
+
+This project investigates how the public thinks about public debt and how that influences the accumulation of public debt and the reluctance to reduce it. [Project Page](https://www.midebt.org/)
 
 ## Working papers
 
