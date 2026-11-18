@@ -368,6 +368,7 @@ def llms_txt(page, papers):
         *extra,
         f"- [CV (PDF)]({SITE}/CV.pdf)",
         f"- [MIDEBT project]({SITE}/midebt.html): ERC Starting Grant project on the microfoundations of debt crises",
+        f"- [Learning about AI]({SITE}/ai-resources.html): resources for students on how AI and LLMs work and the debates about them",
         f"- [All publications as BibTeX]({SITE}/publications.bib)",
         "",
         "## Working papers",
@@ -470,7 +471,7 @@ def publications_bib(papers):
 
 
 def sitemap(page, papers):
-    urls = [f"{SITE}/", f"{SITE}/midebt.html", f"{SITE}/CV.pdf", f"{SITE}/llms.txt", f"{SITE}/llms-full.txt",
+    urls = [f"{SITE}/", f"{SITE}/midebt.html", f"{SITE}/ai-resources.html", f"{SITE}/CV.pdf", f"{SITE}/llms.txt", f"{SITE}/llms-full.txt",
             f"{SITE}/publications.bib"]
     if (ROOT / "cv.md").exists():
         urls.append(f"{SITE}/cv.md")

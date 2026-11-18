@@ -463,6 +463,10 @@ I teach undergraduate and graduate courses on international relations, political
 
 ### Large Language Models (LLMs)
 
+#### Learning About AI: Resources for Students
+
+Videos, newsletters, podcasts and courses for students who want to understand how AI and large language models work and follow the debates about them, with notes on where each source is coming from. [Browse the Resources](https://www.matthewdigiuseppe.com/ai-resources.html)
+
 #### Agentic AI in Social Science Research: From Annotators to Autonomous Pipelines
 
 A talk on the use of agentic AI in social science research, given at the University of Manchester (September 2026). [Download Talk Slides](https://www.matthewdigiuseppe.com/Agentic_AI_SS_Research_May2026.pdf)
