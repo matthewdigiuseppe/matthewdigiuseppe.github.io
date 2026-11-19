@@ -10,7 +10,7 @@ This file lists everything on the site in plain text. Each paper has its own Mar
 - [CV as text](https://www.matthewdigiuseppe.com/cv.md): the full CV in Markdown
 - [CV (PDF)](https://www.matthewdigiuseppe.com/CV.pdf)
 - [MIDEBT project](https://www.matthewdigiuseppe.com/midebt.html): ERC Starting Grant project on the microfoundations of debt crises
-- [Learning about AI](https://www.matthewdigiuseppe.com/ai-resources.html): resources for students on how AI and LLMs work and the debates about them
+- [Learning and Keeping Up with AI](https://www.matthewdigiuseppe.com/ai-resources.html): resources for students on how AI and LLMs work and the debates about them
 - [All publications as BibTeX](https://www.matthewdigiuseppe.com/publications.bib)
 
 ## Working papers
