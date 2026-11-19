@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Safety is an arms race</title>
+<link rel="stylesheet" href="anim.css?v=10">
+<style>
+  .page { padding: 3.5vh 5vw 6vh; justify-content: flex-start; position: relative; }
+  h1 { font-size: 3.6vw; margin: 0 0 3vh; color: var(--ink); letter-spacing: -.03em; }
+  .chain { display: grid; grid-template-columns: 1fr auto 1fr auto 1fr; align-items: center; gap: 1.2vw; margin-bottom: 2.6vh; }
+  .box { border-radius: 1vw; padding: 1.6vh 1.4vw; font-size: 2.4vw; line-height: 1.2; text-align: center; min-height: 12vh; display: flex; align-items: center; justify-content: center; }
+  .q { background: #e4e9f5; border: .22vw solid var(--navy); color: var(--navy); font-weight: 700; }
+  .s { background: #ffffff; border: .16vw solid #dcd8cd; }
+  .arrow { font-size: 3vw; color: var(--navy); }
+  .voices { display: grid; grid-template-columns: 1fr auto 1fr; gap: 1.6vw; align-items: stretch; margin-bottom: 2vh; }
+  .voice { background: #fff; border: .16vw solid #dcd8cd; border-radius: 1vw; padding: 1.5vh 1.4vw; font-size: 2.2vw; line-height: 1.22; }
+  .voice b { display: block; font-size: 1.55vw; color: var(--grey); font-weight: 600; margin-bottom: .5vh; }
+  .vs { align-self: center; font-family: var(--display); font-weight: 800; font-size: 2.2vw; color: var(--grey); }
+  .summit { text-align: center; font-size: 2.2vw; margin-bottom: 2.2vh; }
+  .summit b { color: var(--navy); }
+  .ir { border: .32vw solid var(--red); background: #fbe5df; color: var(--red); font-family: var(--display); font-weight: 800; font-size: 3.9vw; text-align: center; border-radius: 1.1vw; padding: 1.6vh 1vw; }
+  .last { text-align: center; font-size: 2.9vw; margin-top: 2vh; }
+  .credit { position: absolute; left: 5vw; right: 5vw; bottom: 2vh; font-size: 1.25vw; }
+  .show { opacity: 1 !important; transform: none !important; }
+</style>
+</head>
+<body>
+<div class="page">
+  <h1>2. Safety: everyone wants a speed limit</h1>
+
+  <div class="chain">
+    <div class="box q">Can we make it safe?</div>
+    <div class="arrow fade" data-from="1">→</div>
+    <div class="box s fade" data-from="1">Then someone has to slow down</div>
+    <div class="arrow fade" data-from="1">→</div>
+    <div class="box s fade" data-from="1">“The others will not”</div>
+  </div>
+
+  <div class="voices fade" data-from="2">
+    <div class="voice"><b>Anthropic’s chief executive</b>“a speed limit on the rate of AI progress”, agreed with China</div>
+    <div class="vs">vs</div>
+    <div class="voice"><b>The White House AI adviser</b>“we don’t have trust and we can’t verify”</div>
+  </div>
+
+  <div class="summit fade" data-from="3"><b>Trump and Xi, May 2026:</b> agreed to keep talking. Nothing signed.</div>
+
+  <div class="ir fade" data-from="4">This is an arms race</div>
+  <div class="last fade punch" data-from="4">We have been studying those for 70 years.</div>
+  <div class="credit">Amodei and Sacks as reported by the Associated Press, September 2026.</div>
+</div>
+<script src="anim.js?v=10"></script>
+<script>
+  function paint() {
+    var s = parseInt(document.body.dataset.stage || '0', 10);
+    document.querySelectorAll('[data-from]').forEach(function (el) {
+      el.classList.toggle('show', s >= parseInt(el.dataset.from, 10));
+    });
+  }
+  Stages.init(5, function () { paint(); });
+  paint();
+</script>
+</body>
+</html>

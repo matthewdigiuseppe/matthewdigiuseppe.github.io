@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Access: a web of interests</title>
+<link rel="stylesheet" href="anim.css?v=12">
+<style>
+  .page { padding: 3.5vh 4.5vw 5vh; justify-content: flex-start; position: relative; }
+  h1 { font-size: 3.6vw; margin: 0 0 2vh; letter-spacing: -.03em; }
+  .grid { display: grid; grid-template-columns: 1fr 28vw; column-gap: 2.2vw; align-items: start; }
+  .layer { display: grid; grid-template-columns: 10.5vw 1fr; align-items: center; column-gap: 1vw; border-top: .22vw solid var(--navy); padding: 1.7vh 0 1.9vh; }
+  .layer .name { font-family: var(--display); font-weight: 700; font-size: 2.1vw; color: var(--navy); line-height: 1.1; }
+  .chips { display: flex; flex-wrap: nowrap; gap: .7vw; }
+  .chip { background: #fff; border: .14vw solid #dcd8cd; border-radius: .7vw; padding: .7vh .8vw; font-size: 1.75vw; white-space: nowrap; transition: all .5s ease; position: relative; z-index: 2; }
+  body.pull .chip.hot { border-color: var(--red); color: var(--red); font-weight: 700; background: #fbe5df; }
+  body.pull .chip.core { background: var(--red); border-color: var(--red); color: #fff; font-weight: 700; }
+  svg.lines { position: absolute; left: 0; top: 0; width: 100%; height: 100%; pointer-events: none; z-index: 1; }
+  svg.lines line { stroke: var(--red); stroke-width: 3; stroke-dasharray: 7 6; opacity: 0; transition: opacity .6s ease .2s; }
+  body.pull svg.lines line { opacity: .9; }
+  .case { background: #e4e9f5; border-left: .5vw solid var(--navy); border-radius: .5vw; padding: 1.1vh 1vw; margin-bottom: 1.6vh; font-size: 1.6vw; line-height: 1.25; }
+  .case b { display: block; font-family: var(--display); font-size: 1.9vw; color: var(--navy); margin-bottom: .2vh; }
+  .t { background: #fbe5df; border-left: .5vw solid var(--red); border-radius: .5vw; padding: .8vh 1vw; margin-bottom: 1vh; font-size: 1.5vw; line-height: 1.2; }
+  .t b { display: block; font-family: var(--display); font-size: 1.75vw; color: var(--red); }
+  .lead { font-size: 2vw; line-height: 1.3; margin: -.6vh 0 1.6vh; }
+  .lead b { color: var(--red); font-family: var(--display); }
+  .lead .q { font-family: var(--display); font-weight: 700; color: var(--navy); font-size: 2.3vw; margin-top: .4vh; }
+  .facts { margin-top: 1.6vh; font-size: 1.95vw; text-align: center; line-height: 1.4; }
+  .facts b { color: var(--navy); }
+  .last { text-align: center; font-size: 2.8vw; margin-top: 1.2vh; }
+  .credit { position: absolute; left: 4.5vw; right: 4.5vw; bottom: 1.8vh; font-size: 1.2vw; }
+  .show { opacity: 1 !important; transform: none !important; }
+</style>
+</head>
+<body>
+<div class="page">
+  <svg class="lines" id="lines"></svg>
+  <h1>2. Access: a web of interests</h1>
+  <div class="lead">Europe holds <b>5%</b> of the world’s AI computing power. America holds <b>80%</b>.<div class="q">How does Europe keep access to cutting-edge AI?</div></div>
+  <div class="grid">
+    <div>
+      <div class="layer fade" data-from="1"><div class="name">States</div><div class="chips">
+        <span class="chip hot" id="c-us">White House</span><span class="chip">China</span><span class="chip">Taiwan</span><span class="chip">Japan</span><span class="chip">Gulf states</span></div></div>
+      <div class="layer fade" data-from="2"><div class="name">Firms</div><div class="chips">
+        <span class="chip">OpenAI</span><span class="chip">Nvidia</span><span class="chip">TSMC</span><span class="chip core" id="c-asml">ASML</span><span class="chip">Mistral</span></div></div>
+      <div class="layer fade" data-from="3"><div class="name">Europe</div><div class="chips">
+        <span class="chip">Commission</span><span class="chip">Council</span><span class="chip hot" id="c-nl">Netherlands</span><span class="chip">France</span><span class="chip">Germany</span></div></div>
+      <div class="layer fade" data-from="4"><div class="name">At home</div><div class="chips">
+        <span class="chip">Voters</span><span class="chip">Unions</span><span class="chip">Carmakers</span><span class="chip hot" id="c-sh">Shareholders</span></div></div>
+    </div>
+    <div>
+      <div class="case fade" data-from="5"><b>Europe’s one card: ASML</b>Washington: stop selling to China. The Hague: ally or champion? Shareholders: sell.</div>
+      <div class="fade" data-from="6">
+        <div class="t"><b>Sovereignty or capability</b>European-only AI is weaker AI.</div>
+        <div class="t"><b>Ally or customer</b>Sell to China, lose Washington.</div>
+        <div class="t"><b>Unity or champions</b>Every state backs its own firm.</div>
+        <div class="t"><b>Rules or speed</b>Regulate and fall behind.</div>
+      </div>
+    </div>
+  </div>
+  <div class="last fade punch" data-from="7">AI influences everything – we need to understand the connections, costs and benefits.</div>
+  <div class="credit">Two-level games: Putnam (1988). Compute shares: Europe 2031 (June 2026), a scenario report.</div>
+</div>
+<script src="anim.js?v=12"></script>
+<script>
+  function centre(id) {
+    var r = document.getElementById(id).getBoundingClientRect();
+    return [r.left + r.width / 2, r.top + r.height / 2];
+  }
+  function draw() {
+    var svg = document.getElementById('lines');
+    var a = centre('c-asml'), out = '';
+    ['c-us', 'c-nl', 'c-sh'].forEach(function (id) {
+      var b = centre(id);
+      out += '<line x1="' + a[0] + '" y1="' + a[1] + '" x2="' + b[0] + '" y2="' + b[1] + '"/>';
+    });
+    svg.innerHTML = out;
+  }
+  function paint() {
+    var s = parseInt(document.body.dataset.stage || '0', 10);
+    document.querySelectorAll('[data-from]').forEach(function (el) {
+      el.classList.toggle('show', s >= parseInt(el.dataset.from, 10));
+    });
+    draw();
+    document.body.classList.toggle('pull', s >= 5);
+  }
+  window.addEventListener('resize', draw);
+  Stages.init(8, function () { paint(); });
+  paint();
+  setTimeout(draw, 600);
+</script>
+</body>
+</html>

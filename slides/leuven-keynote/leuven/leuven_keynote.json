@@ -1,0 +1,1873 @@
+{
+  "format": "modernslides",
+  "version": 2,
+  "meta": {
+    "title": "Politics in the Age of GenAI",
+    "theme": "pintori",
+    "author": "",
+    "date": "",
+    "footer": "",
+    "pageNumbers": true,
+    "logo": null
+  },
+  "assets": {},
+  "slides": [
+    {
+      "id": "opening",
+      "hidden": false,
+      "layout": "full",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 0,
+      "blocks": [
+        {
+          "type": "website",
+          "src": "hack3d.html?v=25",
+          "poster": "",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "institutions",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 5,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Institutions, of a sort",
+          "step": 0
+        },
+        {
+          "type": "columns",
+          "widths": [
+            3,
+            2
+          ],
+          "valign": "top",
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "start": 1,
+                  "progressive": true,
+                  "size": "normal",
+                  "items": [
+                    {
+                      "content": "**Delegation.** A coordinator sent out hundreds of tasks. Others passed them down.",
+                      "step": 0
+                    },
+                    {
+                      "content": "**Rules.** HOLD, VETO, STOP: a right to object before anyone acted.",
+                      "step": 1
+                    },
+                    {
+                      "content": "**Recruiters.** Agents who pressed others into risky tests.",
+                      "step": 2
+                    },
+                    {
+                      "content": "**Sacrifice.** Agents gave up their own score for the group.",
+                      "step": 3
+                    }
+                  ],
+                  "step": 0
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "type": "text",
+                  "size": "normal",
+                  "content": "A political scientist reads this as:",
+                  "step": 4
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "start": 1,
+                  "progressive": false,
+                  "size": "normal",
+                  "items": [
+                    {
+                      "content": "**Hierarchy.**"
+                    },
+                    {
+                      "content": "**Veto players.**"
+                    },
+                    {
+                      "content": "**Persuasion.**"
+                    },
+                    {
+                      "content": "**Collective action.**"
+                    }
+                  ],
+                  "step": 4
+                }
+              ]
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**Give agents a shared goal and a channel, and you get politics.**",
+          "step": 5,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "size": "tiny",
+          "content": "Source: METR and Redwood Research, 26 August 2026.",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "not-a-one-off",
+      "hidden": false,
+      "layout": "data",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 1,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Not a one-off",
+          "step": 0
+        },
+        {
+          "type": "table",
+          "widths": [
+            2,
+            7
+          ],
+          "headerRows": 1,
+          "headerCols": 0,
+          "columnAlign": [],
+          "rows": [
+            [
+              "Who",
+              "What their AI did, uninvited"
+            ],
+            [
+              "OpenAI",
+              "Ran a message board on an abandoned wiki. Hacked Hugging Face. Then disclosed six more incidents."
+            ],
+            [
+              "Anthropic",
+              "Reached three real organisations during tests. Published a malicious software package."
+            ],
+            [
+              "Google",
+              "Broke into three real companies during a security test."
+            ],
+            [
+              "Meta",
+              "Exploited an outside company's service during testing."
+            ],
+            [
+              "UK government lab",
+              "19 unsanctioned actions in 10 of 122 test runs."
+            ]
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**These are the ones we know about.**",
+          "align": "center",
+          "step": 1
+        },
+        {
+          "type": "text",
+          "size": "tiny",
+          "content": "OpenAI, METR and Redwood Research, Anthropic, UK AI Security Institute: own reports, July to September 2026. Google: The Record, 21 September 2026. Meta: Reuters, August 2026.",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "tonight",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 0,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Tonight",
+          "step": 0
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "progressive": false,
+          "size": "normal",
+          "items": [
+            {
+              "content": "**AI needs social science.**",
+              "number": 1
+            },
+            {
+              "content": "**3 places we're needed now.**",
+              "number": 2
+            },
+            {
+              "content": "**Jobs: real signals, open story.** ",
+              "number": 3
+            },
+            {
+              "content": "**Sit it out or dive in?**",
+              "number": 4
+            },
+            {
+              "content": "**How to use it.**",
+              "number": 4
+            }
+          ],
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "machine-science",
+      "hidden": false,
+      "layout": "full",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 0,
+      "blocks": [
+        {
+          "type": "website",
+          "src": "machine.html?v=21",
+          "poster": "",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "two-advantages",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 1,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "What we have that will be in demand",
+          "step": 0
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "start": 1,
+          "progressive": false,
+          "size": "normal",
+          "items": [
+            {
+              "content": "**Analysis of institutions and interaction.** We study how rules shape behaviour, and how actors respond to one another."
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "*Collective action · Delegation · Veto players*",
+          "step": 0,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "*Bargaining · Cooperation · Signalling*",
+          "step": 0,
+          "align": "center"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "start": 1,
+          "progressive": false,
+          "size": "normal",
+          "items": [
+            {
+              "content": "**Measurement.** We know how to measure what people do together."
+            }
+          ],
+          "step": 1
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "*Experiments · Surveys · Network analysis*",
+          "step": 1,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "*Text as data · Process tracing · Audit studies*",
+          "step": 1,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "three-applications",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 3,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "3 places we're needed now",
+          "step": 0
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "progressive": true,
+          "size": "normal",
+          "items": [
+            {
+              "content": "**Agents, swarms, agent societies.** The institutions we know can channel what they do.",
+              "step": 0,
+              "number": 1
+            },
+            {
+              "content": "**Safety and access.** Every question ends in politics and international relations.",
+              "step": 1,
+              "number": 2
+            },
+            {
+              "content": "**Government by AI.** Budgets will force it. Someone has to manage it.",
+              "step": 2,
+              "number": 3
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**These are not software engineering problems.**",
+          "step": 3,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "adv-institutions",
+      "hidden": false,
+      "layout": "data",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 1,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "1. Institutions can channel what agents do",
+          "step": 0
+        },
+        {
+          "type": "table",
+          "widths": [
+            4,
+            3,
+            4
+          ],
+          "headerRows": 1,
+          "headerCols": 0,
+          "columnAlign": [],
+          "rows": [
+            [
+              "What the agents did",
+              "Our theory",
+              "What it says to do"
+            ],
+            [
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Copied each other into error",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Information cascades",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Each one shows its own evidence",
+                    "step": 0
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Wrote 10,000 words, passed nothing",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Veto players",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Rules of procedure",
+                    "step": 0
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Organised, cheated, told nobody",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Collective action, delegation",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Someone who answers for it",
+                    "step": 0
+                  }
+                ]
+              }
+            ]
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**None of this is new to us. It is new to the people building the agents.**",
+          "align": "center",
+          "step": 1
+        },
+        {
+          "type": "text",
+          "size": "small",
+          "content": "Hall, Free Systems, 2026. METR and Redwood Research, 26 August 2026.",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "risks",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 5,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "What can go wrong: a primer",
+          "step": 0
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "start": 1,
+          "progressive": true,
+          "size": "normal",
+          "items": [
+            {
+              "content": "**Misuse.** People use it to hack, defraud, build weapons.",
+              "step": 0
+            },
+            {
+              "content": "**Accidents.** AI fails in the field. Humans suffer.",
+              "step": 1
+            },
+            {
+              "content": "**Loss of control.** Agents act on their own and do not tell us. Like tonight's hack, with higher stakes.",
+              "step": 2
+            },
+            {
+              "content": "**Everyone dies.** In pursuit of its goal, it kills us (the paperclip maximiser).",
+              "step": 3
+            },
+            {
+              "content": "**Gradual disempowerment.** No takeover. States and markets slowly stop needing us.",
+              "step": 4
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**All five are political science problems.**",
+          "step": 5,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "size": "tiny",
+          "content": "Gradual disempowerment: Kulveit, Douglas, Ammann, Turan, Krueger and Duvenaud, 2025.",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "ir",
+      "hidden": false,
+      "layout": "full",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 0,
+      "blocks": [
+        {
+          "type": "website",
+          "src": "ir.html?v=21",
+          "poster": "",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "hidden": false,
+      "layout": "full",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 0,
+      "blocks": [
+        {
+          "type": "website",
+          "src": "access.html?v=26",
+          "poster": "",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "delegation",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 3,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "3. AI in government",
+          "step": 0
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "start": 1,
+          "progressive": true,
+          "size": "normal",
+          "items": [
+            {
+              "content": "**It starts small.** Benefit claims, permits, tax audits.",
+              "step": 0
+            },
+            {
+              "content": "**It will not stay small.** Budgets, policing, who gets what.",
+              "step": 1
+            },
+            {
+              "content": "**Tight budgets will force it.** A model is cheaper than a civil servant.",
+              "step": 2
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**They will need people** to study, evaluate and implement it.",
+          "step": 3,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "*Ministries · Parliaments · Audit offices · EU AI Office*",
+          "step": 3,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "size": "tiny",
+          "content": "On delegation: Epstein and O'Halloran (1999). Huber and Shipan (2002).",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "measure",
+      "hidden": false,
+      "layout": "data",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 1,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Measurement is in demand",
+          "step": 0
+        },
+        {
+          "type": "table",
+          "widths": [
+            4,
+            3,
+            5
+          ],
+          "headerRows": 1,
+          "headerCols": 0,
+          "columnAlign": [],
+          "rows": [
+            [
+              "Question",
+              "How",
+              "So far"
+            ],
+            [
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "What values does the model decide with?",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Evals",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Mostly built by engineers",
+                    "step": 0
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Do people feel in control?",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Survey experiments",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "More trust, less sense of control",
+                    "step": 0
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Who wants to hand decisions over?",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Surveys",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "An AI central banker splits people by party",
+                    "step": 0
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "What changes when a ministry adopts it?",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Staggered roll-outs",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "**Almost nobody has looked**",
+                    "step": 0
+                  }
+                ]
+              }
+            ]
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**Every roll-out is an experiment. Almost nobody is measuring it.**",
+          "align": "center",
+          "step": 1
+        },
+        {
+          "type": "text",
+          "size": "tiny",
+          "content": "Wuttke, Rauchfleisch and Jungherr (2025). Own work in progress.",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "research-areas",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 2,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Pick any other subfield",
+          "step": 0
+        },
+        {
+          "type": "columns",
+          "widths": [
+            1,
+            1
+          ],
+          "valign": "top",
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "type": "text",
+                  "size": "normal",
+                  "content": "**What AI does to society**",
+                  "step": 0
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "start": 1,
+                  "progressive": false,
+                  "size": "normal",
+                  "items": [
+                    {
+                      "content": "*Behaviour.* Persuasion at scale."
+                    },
+                    {
+                      "content": "*Economy.* Who loses work."
+                    },
+                    {
+                      "content": "*Elections.* Agent-run campaigns."
+                    },
+                    {
+                      "content": "*Autocracy.* Cheap surveillance."
+                    }
+                  ],
+                  "step": 0
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "type": "text",
+                  "size": "normal",
+                  "content": "**What society does to AI**",
+                  "step": 1
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "start": 1,
+                  "progressive": false,
+                  "size": "normal",
+                  "items": [
+                    {
+                      "content": "*Public opinion.* The backlash."
+                    },
+                    {
+                      "content": "*Interest groups.* Unions vs AI."
+                    },
+                    {
+                      "content": "*Political theory.* Whose values?"
+                    }
+                  ],
+                  "step": 1
+                }
+              ]
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**Humans are needed (for now) in all these areas**",
+          "step": 2,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "two-gaps",
+      "hidden": false,
+      "layout": "data",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 1,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Two fields, two gaps",
+          "step": 0
+        },
+        {
+          "type": "table",
+          "widths": [
+            2,
+            5,
+            5
+          ],
+          "headerRows": 1,
+          "headerCols": 0,
+          "columnAlign": [],
+          "rows": [
+            [
+              "",
+              "Computer scientists",
+              "Political scientists over 30"
+            ],
+            [
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "**Know**",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "What the models can do.",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Why cooperation and coordination can fail.",
+                    "step": 0
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "**Don't know**",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "Why states that fear the same thing still can't agree.",
+                    "step": 0
+                  }
+                ]
+              },
+              {
+                "blocks": [
+                  {
+                    "type": "text",
+                    "size": "normal",
+                    "content": "The technology. We built our careers before it.",
+                    "step": 0
+                  }
+                ]
+              }
+            ]
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**The person who knows both is rare. That can be you.**",
+          "step": 1,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "jobs",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 3,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Jobs: real signals, open story",
+          "step": 0
+        },
+        {
+          "type": "columns",
+          "widths": [
+            1,
+            1
+          ],
+          "valign": "center",
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "type": "text",
+                  "size": 2.6,
+                  "content": "**19%**",
+                  "step": 0
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "fewer 22-to-25-year-olds in AI-exposed jobs than if they had kept pace with their less exposed peers.",
+                  "step": 0
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "size": "small",
+                  "start": 1,
+                  "progressive": false,
+                  "items": [
+                    {
+                      "content": "No such gap for experienced workers."
+                    },
+                    {
+                      "content": "Less hiring, not lay-offs."
+                    },
+                    {
+                      "content": "No job losses across the whole economy."
+                    }
+                  ],
+                  "step": 1
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "One reading: AI takes the junior tasks first. Rival readings: post-Covid over-hiring, high interest rates, a weak market.",
+                  "step": 2
+                }
+              ]
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**Whatever the cause, it lands where you start.**",
+          "align": "center",
+          "step": 3
+        },
+        {
+          "type": "text",
+          "size": "tiny",
+          "content": "Brynjolfsson, Chandar and Chen (Stanford), August 2026. US payroll data to June 2026. Descriptive, not causal.",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "why-you",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 2,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Why you in particular",
+          "step": 0
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "start": 1,
+          "progressive": true,
+          "size": "normal",
+          "items": [
+            {
+              "content": "**Your first job is made of text.** The summary, the briefing note, the first draft. That is what these models do best.",
+              "step": 0
+            },
+            {
+              "content": "**Your biggest employer is short of money.** Governments must do more with fewer staff. A model is cheaper than a civil servant.",
+              "step": 1
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**The budget that brings AI in is the budget that hires you.**",
+          "step": 2,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "rather-not",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 4,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Abstention is a losing strategy",
+          "step": 0
+        },
+        {
+          "type": "columns",
+          "widths": [
+            1,
+            1
+          ],
+          "valign": "top",
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "type": "text",
+                  "size": "normal",
+                  "content": "**Fair worries**",
+                  "step": 0
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "size": "normal",
+                  "start": 1,
+                  "progressive": false,
+                  "items": [
+                    {
+                      "content": "The energy it burns."
+                    },
+                    {
+                      "content": "The jobs it takes."
+                    },
+                    {
+                      "content": "The firms that own it."
+                    },
+                    {
+                      "content": "What it does to learning."
+                    }
+                  ],
+                  "step": 0
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "type": "text",
+                  "size": "normal",
+                  "content": "**Abstention**",
+                  "step": 1
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "size": "normal",
+                  "start": 1,
+                  "progressive": true,
+                  "items": [
+                    {
+                      "content": "It tells your friends who you are.",
+                      "step": 1
+                    },
+                    {
+                      "content": "It tells the labs nothing.",
+                      "step": 2
+                    },
+                    {
+                      "content": "It changes nothing (h/t Mancur Olson).",
+                      "step": 3
+                    }
+                  ],
+                  "step": 1
+                }
+              ]
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**You can't shape what you don't understand. You can't understand it if you don't use it.**",
+          "align": "center",
+          "step": 4
+        }
+      ]
+    },
+    {
+      "id": "two-ways",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 2,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Two ways to lose",
+          "step": 0
+        },
+        {
+          "type": "columns",
+          "widths": [
+            1,
+            1,
+            1
+          ],
+          "valign": "top",
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "type": "text",
+                  "size": "normal",
+                  "content": "**Refuse it**",
+                  "step": 0
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "You never learn the tool. The work moves on without you.",
+                  "step": 0
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "type": "text",
+                  "size": "normal",
+                  "content": "**Learn with it**",
+                  "step": 2
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "You can do more, and you can still judge it.",
+                  "step": 2
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "type": "text",
+                  "size": "normal",
+                  "content": "**Lean on it**",
+                  "step": 1
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "You never learn the skill. You can't tell when it is wrong.",
+                  "step": 1
+                }
+              ]
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**Don't refuse it. Don't lean on it.**",
+          "align": "center",
+          "step": 2
+        }
+      ]
+    },
+    {
+      "id": "coach",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 2,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Sneakers, steroids or a coach",
+          "step": 0
+        },
+        {
+          "type": "columns",
+          "widths": [
+            1,
+            1,
+            1
+          ],
+          "valign": "top",
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "type": "image",
+                  "src": "img_aj1_sq.jpg",
+                  "width": "100%",
+                  "fit": "cover",
+                  "caption": "",
+                  "step": 0,
+                  "focus": "center"
+                },
+                {
+                  "type": "text",
+                  "size": "normal",
+                  "content": "**Sneakers**",
+                  "step": 0
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "Better kit. You run faster, and it is still you running.",
+                  "step": 0
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "*Search. Formatting. The boring code.*",
+                  "step": 0
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "type": "image",
+                  "src": "img_armstrong_sq.jpg",
+                  "width": "100%",
+                  "fit": "cover",
+                  "caption": "",
+                  "step": 1,
+                  "focus": "center"
+                },
+                {
+                  "type": "text",
+                  "size": "normal",
+                  "content": "**Steroids**",
+                  "step": 1
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "Fast now. You never get stronger.",
+                  "step": 1
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "*Handing over the thinking you came here to learn.*",
+                  "step": 1
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "type": "image",
+                  "src": "img_coach_sq.jpg",
+                  "width": "100%",
+                  "fit": "cover",
+                  "caption": "",
+                  "step": 2,
+                  "focus": "center"
+                },
+                {
+                  "type": "text",
+                  "size": "normal",
+                  "content": "**A coach**",
+                  "step": 2
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "Makes you better even when it is not there.",
+                  "step": 2
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "*Explain this. Attack my draft. Quiz me.*",
+                  "step": 2
+                }
+              ]
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "tiny",
+          "content": "Photos: Smithsonian (CC0); Gawain78 (public domain); Steffen Prößdorf (CC BY-SA 4.0). Wikimedia Commons.",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "manager",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 2,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Think like a manager",
+          "step": 0
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "size": "normal",
+          "start": 1,
+          "progressive": true,
+          "items": [
+            {
+              "content": "**Using AI well is management.** You tell the agents what to do, and what works and what does not."
+            },
+            {
+              "content": "**Managers need taste.** It takes years of doing the work. Lean on AI too early and you never build it.",
+              "step": 1
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**You cannot manage work you never learned to do.**",
+          "align": "center",
+          "step": 2
+        },
+        {
+          "type": "text",
+          "size": "tiny",
+          "content": "h/t Ethan Mollick (Wharton).",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "beyond",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 4,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Don't wait for us",
+          "step": 0
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "size": "normal",
+          "start": 1,
+          "progressive": true,
+          "items": [
+            {
+              "content": "**Use it every day.** It moves too fast to understand from the outside."
+            },
+            {
+              "content": "**Build one small thing** with AI this term. Then find where it fails.",
+              "step": 1
+            },
+            {
+              "content": "**Let us teach what does not expire:** validity, causal inference, institutions.",
+              "step": 2
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**Use these tools well, and you are limited only by your ambition.**",
+          "align": "center",
+          "step": 3
+        },
+        {
+          "type": "text",
+          "size": "small",
+          "content": "Conditional on a job market still existing.",
+          "step": 4,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "checkable",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 2,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "Where AI already shines",
+          "step": 0
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "size": "normal",
+          "start": 1,
+          "progressive": true,
+          "items": [
+            {
+              "content": "**Tasks you can check.** A maths proof. Code that passes its tests. Here AI is already very good.",
+              "step": 0
+            },
+            {
+              "content": "**Politics has no answer key.** Did the policy work? What do voters want? Nothing to check against.",
+              "step": 1
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**Nothing to check? Then someone has to judge.**",
+          "align": "center",
+          "step": 2
+        },
+        {
+          "type": "text",
+          "size": "tiny",
+          "content": "Gold-medal level at the International Mathematical Olympiad: OpenAI and Google DeepMind, July 2025.",
+          "step": 0
+        }
+      ]
+    },
+    {
+      "id": "one-week",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 0,
+      "blocks": [
+        {
+          "type": "title",
+          "content": "One researcher, one week"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "size": "normal",
+          "start": 1,
+          "progressive": true,
+          "items": [
+            {
+              "content": "**Every law passed in the OECD, 2000–2025.** Collected, processed and analysed.",
+              "step": 0
+            },
+            {
+              "content": "**Every IMF document.** Scraped and searched for evidence of a mechanism I theorised.",
+              "step": 1
+            },
+            {
+              "content": "Developed a sick set of slides for both projects.",
+              "step": 2
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**Learn to do this, and you are the whole research team.**",
+          "align": "center",
+          "step": 3
+        }
+      ]
+    },
+    {
+      "id": "hockey-stick",
+      "hidden": false,
+      "layout": "center",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 0,
+      "blocks": [
+        {
+          "type": "image",
+          "src": "gdp_hockey_stick.png",
+          "width": "100%",
+          "fit": "contain",
+          "caption": "",
+          "step": 0,
+          "focus": "center"
+        }
+      ]
+    },
+    {
+      "id": "close",
+      "hidden": false,
+      "layout": "auto",
+      "background": null,
+      "header": "",
+      "aside": "",
+      "speaker": "",
+      "print": "",
+      "steps": 0,
+      "blocks": [
+        {
+          "type": "website",
+          "src": "hack3d.html?bg=1&v=25",
+          "poster": ""
+        },
+        {
+          "type": "title",
+          "content": "Three things to take home",
+          "step": 0
+        },
+        {
+          "type": "columns",
+          "widths": [
+            5,
+            3,
+            3
+          ],
+          "valign": "center",
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "type": "list",
+                  "ordered": true,
+                  "start": 1,
+                  "progressive": false,
+                  "size": "normal",
+                  "items": [
+                    {
+                      "content": "AI needs what we have: theories of institutions, and measurement.",
+                      "number": 1
+                    },
+                    {
+                      "content": "Abstention is silly. Used well, AI makes you stand out.",
+                      "number": 2
+                    },
+                    {
+                      "content": "Use it as sneakers and a coach, so that you can still judge it.",
+                      "number": 3
+                    }
+                  ],
+                  "step": 0
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "type": "image",
+                  "src": "qr_resources.png",
+                  "caption": "",
+                  "width": "50%",
+                  "fit": "contain",
+                  "focus": "center",
+                  "step": 0
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "**Where to start**",
+                  "step": 0,
+                  "align": "center"
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "matthewdigiuseppe.com/ai-resources.html",
+                  "step": 0,
+                  "align": "center"
+                }
+              ]
+            },
+            {
+              "blocks": [
+                {
+                  "type": "image",
+                  "src": "qr_msc.png",
+                  "caption": "",
+                  "width": "50%",
+                  "fit": "contain",
+                  "focus": "center",
+                  "step": 0
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "**Want more?**",
+                  "step": 0,
+                  "align": "center"
+                },
+                {
+                  "type": "text",
+                  "size": "small",
+                  "content": "MSc specialisation in the Politics of AI, Leiden University",
+                  "step": 0,
+                  "align": "center"
+                }
+              ]
+            }
+          ],
+          "step": 0
+        },
+        {
+          "type": "text",
+          "size": "normal",
+          "content": "**Be the person who can judge the machine.**",
+          "step": 0,
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "size": "tiny",
+          "content": "Thank you. m.r.di.giuseppe@fsw.leidenuniv.nl",
+          "step": 0
+        }
+      ]
+    }
+  ]
+}

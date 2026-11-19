@@ -1,0 +1,44 @@
+/* Shared look for the animated slides in the Leuven deck.
+   Colours and fonts follow the ModernSlides "Pintori" style the deck uses. */
+@import url('../fonts/fonts.css');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@600;700;800&family=Karla:wght@400;600;700&display=swap');
+:root {
+  --navy: #2b4b9b;
+  --steel: #4682b4;
+  --red: #e2543b;
+  --green: #226432;
+  --ink: #1d1d1b;
+  --grey: #6f6c66;
+  --soft: #efece4;
+  --bg: #f7f5ef;
+  --display: Epilogue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --body: Karla, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1, h2 { font-family: var(--display); }
+* { box-sizing: border-box; }
+html, body {
+  margin: 0; height: 100%; overflow: hidden;
+  background: var(--bg); color: var(--ink);
+  font-family: var(--body);
+  -webkit-font-smoothing: antialiased;
+  cursor: default; user-select: none;
+}
+body { display: flex; align-items: center; justify-content: center; }
+
+/* Canvas pages: a 16 by 9 picture that fills the slide */
+canvas.stage {
+  width: min(100vw, calc(100vh * 16 / 9));
+  height: min(100vh, calc(100vw * 9 / 16));
+  display: block;
+}
+
+/* The little row of dots that shows how many steps are left */
+.stage-dots { position: fixed; right: 1.4vw; bottom: 1.6vh; display: flex; gap: .5vw; }
+.stage-dots i { width: .7vw; height: .7vw; border-radius: 50%; background: #d5d8df; display: block; }
+.stage-dots i.on { background: var(--navy); }
+
+/* Text pages */
+.page { width: 100vw; height: 100vh; padding: 5vh 5vw; display: flex; flex-direction: column; justify-content: center; }
+.fade { opacity: 0; transform: translateY(1.2vh); transition: opacity .7s ease, transform .7s ease; }
+.punch { color: var(--red); font-weight: 600; }
+.credit { color: var(--grey); font-size: 1.25vw; }
