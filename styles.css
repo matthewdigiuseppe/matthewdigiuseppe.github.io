@@ -967,3 +967,19 @@ footer {
 .resource-item .sep {
     color: #999;
 }
+
+.resource-start {
+    font-size: 0.93rem;
+    color: #333;
+    margin-top: 0.35rem !important;
+}
+
+.start-list {
+    list-style: disc;
+    margin: 0.25rem 0 0.35rem 1.5rem;
+    font-size: 0.93rem;
+}
+
+.start-list li {
+    margin-bottom: 0.15rem;
+}
