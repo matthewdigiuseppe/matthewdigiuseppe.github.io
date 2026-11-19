@@ -305,6 +305,7 @@ header nav {
 
 .hero-buttons {
     display: flex;
+    flex-wrap: wrap;
     gap: 1rem;
     margin-top: 2rem;
 }
