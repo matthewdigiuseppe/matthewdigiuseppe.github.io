@@ -368,7 +368,7 @@ def llms_txt(page, papers):
         *extra,
         f"- [CV (PDF)]({SITE}/CV.pdf)",
         f"- [MIDEBT project]({SITE}/midebt.html): ERC Starting Grant project on the microfoundations of debt crises",
-        f"- [Learning about AI]({SITE}/ai-resources.html): resources for students on how AI and LLMs work and the debates about them",
+        f"- [Learning and Keeping Up with AI]({SITE}/ai-resources.html): resources for students on how AI and LLMs work and the debates about them",
         f"- [All publications as BibTeX]({SITE}/publications.bib)",
         "",
         "## Working papers",
