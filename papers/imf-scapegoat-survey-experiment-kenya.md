@@ -11,7 +11,7 @@ full_text: true
 
 # Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana
 
-DiGiuseppe, M., Brown, K., Abouharb, R., & Resinsberg, B. (2024). Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana. Forthcoming at International Studies Quarterly.
+DiGiuseppe, M., Brown, K., Abouharb, R., & Reinsberg, B. (2024). Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana. Forthcoming at International Studies Quarterly.
 
 - Status: Working paper (recently accepted)
 - PDF on PEIO: https://www.peio.me/wp-content/uploads/PEIO16/submission_76.pdf

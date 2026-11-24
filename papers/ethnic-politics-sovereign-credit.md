@@ -1,5 +1,5 @@
 ---
-title: "Ethnic Politics and Sovereign Credit"
+title: "Ethnic Politics and Sovereign Credit Risk"
 authors: ["Kathleen J. Brown", "Matthew DiGiuseppe", "Patrick E. Shea"]
 year: 2024
 status: "Published"
@@ -11,9 +11,9 @@ links: {"Link": "https://www.tandfonline.com/doi/full/10.1080/09692290.2023.2225
 full_text: false
 ---
 
-# Ethnic Politics and Sovereign Credit
+# Ethnic Politics and Sovereign Credit Risk
 
-DiGiuseppe, M., Brown, K.J., & Shea, P.E. (2024). Ethnic Politics and Sovereign Credit. Review of International Political Economy, 31(2), pp. 589-621.
+DiGiuseppe, M., Brown, K.J., & Shea, P.E. (2024). Ethnic Politics and Sovereign Credit Risk. Review of International Political Economy, 31(2), pp. 589-621.
 
 - Status: Published
 - Topics: Political Economy & Sovereign Debt

@@ -1,5 +1,5 @@
 ---
-title: "Farming Then Fighting: The Relationship Between Idle Time and Social Conflict"
+title: "Farming Then Fighting: Agricultural Idle Time and Armed Conflict"
 authors: ["Matthew DiGiuseppe", "Roos Haer", "Babak RezaeeDaryakenari"]
 year: 2024
 status: "Published"
@@ -11,9 +11,9 @@ links: {"Link": "https://www.cambridge.org/core/journals/political-science-resea
 full_text: false
 ---
 
-# Farming Then Fighting: The Relationship Between Idle Time and Social Conflict
+# Farming Then Fighting: Agricultural Idle Time and Armed Conflict
 
-DiGiuseppe, M., van der Haer, R., & Rezaee, B. (2024). Farming Then Fighting: The Relationship Between Idle Time and Social Conflict. Political Science Research and Methods, 12(4), pp. 897-906.
+DiGiuseppe, M., van der Haer, R., & Rezaee, B. (2024). Farming Then Fighting: Agricultural Idle Time and Armed Conflict. Political Science Research and Methods, 12(4), pp. 897-906.
 
 - Status: Published
 - Topics: Conflict & Security

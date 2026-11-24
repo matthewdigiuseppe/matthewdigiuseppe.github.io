@@ -7,7 +7,7 @@ venue: "PNAS Nexus, 5(10), pgag324"
 topics: ["AI & Politics"]
 doi: "10.1093/pnasnexus/pgag324"
 url: "https://www.matthewdigiuseppe.com/papers/perceived-political-bias-llms-reduces.md"
-links: {"Link": "https://academic.oup.com/pnasnexus/article/doi/10.1093/pnasnexus/pgag324/8898473", "Preprint on arXiv": "https://arxiv.org/abs/2602.18092"}
+links: {"Link": "https://academic.oup.com/pnasnexus/article/doi/10.1093/pnasnexus/pgag324/8898473"}
 full_text: true
 ---
 
@@ -19,7 +19,6 @@ DiGiuseppe, M., & Robison, J. (2026). Perceived Political Bias in LLMs Reduces P
 - Topics: AI & Politics
 - DOI: https://doi.org/10.1093/pnasnexus/pgag324
 - Link: https://academic.oup.com/pnasnexus/article/doi/10.1093/pnasnexus/pgag324/8898473
-- Preprint on arXiv: https://arxiv.org/abs/2602.18092
 - Listed on: https://www.matthewdigiuseppe.com/#research
 
 <!-- END OF GENERATED HEADER: edit freely below this line; scripts/build_agent_files.py keeps it -->

@@ -40,7 +40,6 @@ DiGiuseppe, M., & Robison, J. (2026). Perceived Political Bias in LLMs Reduces P
 - Topics: AI & Politics
 - DOI: https://doi.org/10.1093/pnasnexus/pgag324
 - Link: https://academic.oup.com/pnasnexus/article/doi/10.1093/pnasnexus/pgag324/8898473
-- Preprint on arXiv: https://arxiv.org/abs/2602.18092
 - Text version (with full text): https://www.matthewdigiuseppe.com/papers/perceived-political-bias-llms-reduces.md
 
 Conversational AI has been proposed as a scalable way to correct public misconceptions and spread misinformation. Yet its effectiveness may depend on perceptions of its political neutrality. As LLMs enter partisan conflict, elites increasingly portray them as ideologically aligned. We test whether these credibility attacks reduce LLM-based persuasion. In a preregistered U.S. survey experiment (N=2144), participants completed a three-round conversation with ChatGPT about a personally held economic policy misconception. Compared to a neutral control, a short message indicating that the LLM was biased against the respondent’s party attenuated persuasion by 28%. Transcript analysis indicates that the warnings alter the interaction: respondents push back more and engage less receptively. These findings suggest that the persuasive impact of conversational AI is politically contingent, constrained by perceptions of partisan alignment.
@@ -67,7 +66,7 @@ Why do citizens support central bank independence (CBI)? Despite important resea
 
 ### Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana
 
-DiGiuseppe, M., Brown, K., Abouharb, R., & Resinsberg, B. (2024). Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana. Forthcoming at International Studies Quarterly.
+DiGiuseppe, M., Brown, K., Abouharb, R., & Reinsberg, B. (2024). Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana. Forthcoming at International Studies Quarterly.
 
 - Status: Working paper (recently accepted)
 - PDF on PEIO: https://www.peio.me/wp-content/uploads/PEIO16/submission_76.pdf
@@ -169,9 +168,9 @@ DiGiuseppe, M., & Shea, P.E. (2025). Information, Uncertainty, & Public Support 
 
 Why do US voters allow politicians to hold the country’s economy hostage during debt ceiling negotiations? In this research note, we argue that ignorance and uncertainty over the consequences of a debt ceiling breach play a nontrivial role in public support for hard-line negotiating positions. In a pre-registered survey experiment, two weeks before the June 2023 deadline to raise the US debt ceiling, we show that providing credible information about the consequences of default increases support for concessions among both Democrats and Republicans. Further, more certain information about the consequences of a debt ceiling breach has a larger effect than less-certain information suggesting that the unpredictable consequences of the crisis also help explain voter reluctance to accept concessions. The findings have implications for understanding debt ceiling negotiations and other crisis bargaining situations where the public serves as a relevant third party.
 
-### Ethnic Politics and Sovereign Credit
+### Ethnic Politics and Sovereign Credit Risk
 
-DiGiuseppe, M., Brown, K.J., & Shea, P.E. (2024). Ethnic Politics and Sovereign Credit. Review of International Political Economy, 31(2), pp. 589-621.
+DiGiuseppe, M., Brown, K.J., & Shea, P.E. (2024). Ethnic Politics and Sovereign Credit Risk. Review of International Political Economy, 31(2), pp. 589-621.
 
 - Status: Published
 - Topics: Political Economy & Sovereign Debt
@@ -313,9 +312,9 @@ Barry, C.M., & DiGiuseppe, M. (2019). Transparency, Risk, and FDI. Political Res
 
 A central theme in the foreign direct investment (FDI) literature is that political risk deters investment. The empirical record, however, is mixed. multinational corporations (MNCs) continue to invest in high-risk countries. We argue it is not merely about the level of risk, but rather firms’ ability to quantify risk. When MNCs can confidently assess both the nature and the degree of the threats present, they can take appropriate measures to hedge against them. This should increase their willingness to invest, even in higher risk environments. We contend that the ability to accurately quantify risk is a function of political transparency. Among opaque countries, we expect risk to exert a deterring effect on FDI, as commonly theorized. Among more transparent countries, however, we expect that risk is a less salient concern for MNCs. We test this argument using firm-level data on the foreign operations of some of the world’s largest multinationals between 1995 and 2008. The evidence supports the argument. Risk has a strong negative effect on the likelihood of investment at lower levels of transparency, but the magnitude of this effect weakens at higher levels of transparency. This pattern is consistent across multiple types of political risk, and is most pronounced in nonextractive (relative to extractive) industries.
 
-### Farming Then Fighting: The Relationship Between Idle Time and Social Conflict
+### Farming Then Fighting: Agricultural Idle Time and Armed Conflict
 
-DiGiuseppe, M., van der Haer, R., & Rezaee, B. (2024). Farming Then Fighting: The Relationship Between Idle Time and Social Conflict. Political Science Research and Methods, 12(4), pp. 897-906.
+DiGiuseppe, M., van der Haer, R., & Rezaee, B. (2024). Farming Then Fighting: Agricultural Idle Time and Armed Conflict. Political Science Research and Methods, 12(4), pp. 897-906.
 
 - Status: Published
 - Topics: Conflict & Security
