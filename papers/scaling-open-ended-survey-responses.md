@@ -7,7 +7,7 @@ venue: "Public Opinion Quarterly, 90(1)"
 topics: ["Political Behavior & Policy Preferences"]
 doi: "10.1093/poq/nfag013"
 url: "https://www.matthewdigiuseppe.com/papers/scaling-open-ended-survey-responses.md"
-links: {"PDF on OSF": "https://osf.io/preprints/socarxiv/39ajg_v2"}
+links: {"PDF on OSF": "https://osf.io/preprints/socarxiv/39ajg_v2", "Replication data": "https://www.dropbox.com/scl/fi/mhw8xt1h76qf02xmlhcpk/replicationdata.zip?rlkey=nv1sgnd29cf54sntcbj7whsyz&dl=0"}
 full_text: true
 ---
 
@@ -19,6 +19,7 @@ DiGiuseppe, M., & Flynn, M.E. (2026). Scaling Open-ended Survey Responses Using 
 - Topics: Political Behavior & Policy Preferences
 - DOI: https://doi.org/10.1093/poq/nfag013
 - PDF on OSF: https://osf.io/preprints/socarxiv/39ajg_v2
+- Replication data: https://www.dropbox.com/scl/fi/mhw8xt1h76qf02xmlhcpk/replicationdata.zip?rlkey=nv1sgnd29cf54sntcbj7whsyz&dl=0
 - Listed on: https://www.matthewdigiuseppe.com/#research
 
 <!-- END OF GENERATED HEADER: edit freely below this line; scripts/build_agent_files.py keeps it -->
