@@ -50,7 +50,7 @@ Institute of Political Science, Universiteit Leiden
 ## Peer-Reviewed Publications
 
 30. Perceived Political Bias in LLMs Reduces Persuasive Abilities (with Joshua Robison). *PNAS Nexus*. Forthcoming.
-29. Putting the Public in Public Debt (with Jaroslaw Kantorowicz, Bastián González-Bustamante, and Alessia Aspide). *Public Choice*. Conditionally accepted.
+29. Putting the Public in Public Debt (with Jaroslaw Kantorowicz, Bastián González-Bustamante, and Alessia Aspide). *Public Choice*. Forthcoming.
 28. Information, Party Politics, and Public Support for Central Bank Independence (with Ana Carolina Garriga and Andreas Kern). *British Journal of Political Science*. Forthcoming.
 27. Is the IMF a Scapegoat? A Survey Experiment in Kenya & Ghana (with Kathleen Brown, Rod Abouharb, and Bernhard Reinsberg). *International Studies Quarterly*. Forthcoming.
 26. Scaling Open-ended Survey Responses Using LLM-Paired Comparisons (with Michael E. Flynn). 2026. *Public Opinion Quarterly* 90(1).

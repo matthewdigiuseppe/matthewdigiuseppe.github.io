@@ -46,7 +46,7 @@ Conversational AI has been proposed as a scalable way to correct public misconce
 
 ### Putting the Public in Public Debt
 
-DiGiuseppe, M., Kantorowicz, J., González-Bustamante, B., & Aspide, A. (2026). Putting the Public in Public Debt. Conditionally accepted at Public Choice.
+DiGiuseppe, M., Kantorowicz, J., González-Bustamante, B., & Aspide, A. (2026). Putting the Public in Public Debt. Forthcoming at Public Choice.
 
 - Status: Working paper (recently accepted)
 - PDF: https://www.matthewdigiuseppe.com/Putting_the_Public_in_Public_Debt_Sept2026.pdf

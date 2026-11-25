@@ -3,7 +3,7 @@ title: "Putting the Public in Public Debt"
 authors: ["Matthew DiGiuseppe", "Jaroslaw Kantorowicz", "Bastián González-Bustamante", "Alessia Aspide"]
 year: 2026
 status: "Working paper (recently accepted)"
-venue: "Conditionally accepted at Public Choice"
+venue: "Forthcoming at Public Choice"
 url: "https://www.matthewdigiuseppe.com/papers/putting-public-public-debt.md"
 links: {"PDF": "https://www.matthewdigiuseppe.com/Putting_the_Public_in_Public_Debt_Sept2026.pdf"}
 full_text: true
@@ -11,7 +11,7 @@ full_text: true
 
 # Putting the Public in Public Debt
 
-DiGiuseppe, M., Kantorowicz, J., González-Bustamante, B., & Aspide, A. (2026). Putting the Public in Public Debt. Conditionally accepted at Public Choice.
+DiGiuseppe, M., Kantorowicz, J., González-Bustamante, B., & Aspide, A. (2026). Putting the Public in Public Debt. Forthcoming at Public Choice.
 
 - Status: Working paper (recently accepted)
 - PDF: https://www.matthewdigiuseppe.com/Putting_the_Public_in_Public_Debt_Sept2026.pdf
