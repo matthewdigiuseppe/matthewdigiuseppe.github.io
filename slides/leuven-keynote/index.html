@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- Storage names changed from modernslides.* to leuvenkeynote.* so this deck never picks up the saved copy of another ModernSlides deck on this site. -->
 <!-- Slide app: ModernSlides by Kevin A. Bryan (MIT License), github.com/kevincure/ModernSlides. Deck: Matt DiGiuseppe, KU Leuven, 19 November 2026. -->
 <script>if (!new URLSearchParams(location.search).get('deck')) history.replaceState(null, '', location.pathname + '?deck=leuven/leuven_keynote.json' + location.hash);</script>
 <meta charset="UTF-8">
@@ -5500,15 +5501,15 @@ const PUBLISH_LOGIN_URL = './api/login.php';
 const PUBLISH_URL = './api/publish.php';
 const STAGE_W = 1600;
 const STAGE_H = 900;
-const STORAGE_CURRENT = 'modernslides.v2.current';
-const STORAGE_PREVIOUS = 'modernslides.v2.previous';
-const STORAGE_CURRENT_NAME = 'modernslides.v2.currentName';
-const STORAGE_PREVIOUS_NAME = 'modernslides.v2.previousName';
-const STORAGE_SLIDE = 'modernslides.v2.slideId';
-const STORAGE_HISTORY = 'modernslides.v2.history';
-const STORAGE_SOURCE = 'modernslides.v2.source';
-const STORAGE_BASEHASH = 'modernslides.v2.baseHash';
-const STORAGE_BASEURL = 'modernslides.v2.baseUrl';
+const STORAGE_CURRENT = 'leuvenkeynote.v2.current';
+const STORAGE_PREVIOUS = 'leuvenkeynote.v2.previous';
+const STORAGE_CURRENT_NAME = 'leuvenkeynote.v2.currentName';
+const STORAGE_PREVIOUS_NAME = 'leuvenkeynote.v2.previousName';
+const STORAGE_SLIDE = 'leuvenkeynote.v2.slideId';
+const STORAGE_HISTORY = 'leuvenkeynote.v2.history';
+const STORAGE_SOURCE = 'leuvenkeynote.v2.source';
+const STORAGE_BASEHASH = 'leuvenkeynote.v2.baseHash';
+const STORAGE_BASEURL = 'leuvenkeynote.v2.baseUrl';
 const HISTORY_LIMIT = 10;
 const DEFAULT_THEME = 'pintori';
 const MAX_HISTORY = 60;
@@ -5708,7 +5709,7 @@ const escapeAttr = escapeHtml;
 function storageGet(key) { try { return globalThis['localStorage']?.getItem(key) ?? null; } catch { return null; } }
 function storageSet(key, value) { try { globalThis['localStorage']?.setItem(key, String(value)); return true; } catch { return false; } }
 function storageRemove(key) { try { globalThis['localStorage']?.removeItem(key); } catch {} }
-const DECK_DB_NAME = 'modernslides-v2';
+const DECK_DB_NAME = 'leuvenkeynote-v2';
 const DECK_DB_STORE = 'decks';
 let deckDbPromise = null;
 function openDeckDb() {
