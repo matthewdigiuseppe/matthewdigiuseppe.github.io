@@ -2168,11 +2168,11 @@ const PUBLISH_LOGIN_URL = './api/login.php';
 const PUBLISH_URL = './api/publish.php';
 const STAGE_W = 1600;
 const STAGE_H = 900;
-const STORAGE_CURRENT = 'modernslides.v2.current';
-const STORAGE_PREVIOUS = 'modernslides.v2.previous';
-const STORAGE_CURRENT_NAME = 'modernslides.v2.currentName';
-const STORAGE_PREVIOUS_NAME = 'modernslides.v2.previousName';
-const STORAGE_SLIDE = 'modernslides.v2.slideId';
+const STORAGE_CURRENT = 'llmbias.v2.current';
+const STORAGE_PREVIOUS = 'llmbias.v2.previous';
+const STORAGE_CURRENT_NAME = 'llmbias.v2.currentName';
+const STORAGE_PREVIOUS_NAME = 'llmbias.v2.previousName';
+const STORAGE_SLIDE = 'llmbias.v2.slideId';
 const MAX_HISTORY = 60;
 const THEME_IDS = [
   ['tufte', "Tufte"],
@@ -2336,7 +2336,7 @@ const escapeAttr = escapeHtml;
 function storageGet(key) { try { return globalThis['localStorage']?.getItem(key) ?? null; } catch { return null; } }
 function storageSet(key, value) { try { globalThis['localStorage']?.setItem(key, String(value)); return true; } catch { return false; } }
 function storageRemove(key) { try { globalThis['localStorage']?.removeItem(key); } catch {} }
-const DECK_DB_NAME = 'modernslides-v2';
+const DECK_DB_NAME = 'llmbias-v2';
 const DECK_DB_STORE = 'decks';
 let deckDbPromise = null;
 function openDeckDb() {
